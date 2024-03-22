@@ -1,0 +1,146 @@
+Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors
+350000,178,Karlovaèka,Karlovac,Švarèa,5+ sobni,U stambenoj zgradi,Dvoetažni
+300000,137,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
+290000,127,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
+88500,73,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
+65000,65,Karlovaèka,Duga Resa,Duga Resa,2-sobni,U kuæi,Jednoetažni
+245000,258,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U kuæi,Jednoetažni
+180000,114,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni
+337000,94,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,4-sobni,U stambenoj zgradi,Jednoetažni
+167000,50,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+460000,200,Karlovaèka,Karlovac,Novi Centar,5+ sobni,U stambenoj zgradi,Dvoetažni
+69000,40,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
+119999,63,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
+123998,70,Karlovaèka,Karlovac,Novi Centar,3-sobni,U stambenoj zgradi,Jednoetažni
+70000,55,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni
+60000,70,Karlovaèka,Josipdol,Skradnik,2-sobni,U stambenoj zgradi,Jednoetažni
+85000,66,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
+93000,100,Karlovaèka,Ogulin,Ogulin,3-sobni,U kuæi,Dvoetažni
+281500,93,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+199500,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+249500,71,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+210500,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+256000,85,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+87500,35,Karlovaèka,Karlovac,Zvijezda,2-sobni,U stambenoj zgradi,Jednoetažni
+74000,54,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+120000,101,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni
+73000,52,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+130000,58,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+93000,105,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
+84000,54,Karlovaèka,Karlovac,Zvijezda,2-sobni,U stambenoj zgradi,Jednoetažni
+254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+210500,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+281500,93,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+256000,85,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+199500,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+249500,83,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+120000,53,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Jednoetažni
+117000,90,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni
+59000,46,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni
+96000,48,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Jednoetažni
+125000,72,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
+295000,127,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
+305000,137,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Dvoetažni
+350000,178,Karlovaèka,Karlovac,Švarèa,5+ sobni,U stambenoj zgradi,Dvoetažni
+245000,258,Karlovaèka,Karlovac,Banija,5+ sobni,U stambenoj zgradi,Jednoetažni
+113000,51,Karlovaèka,Karlovac,Banija,2-sobni,U stambenoj zgradi,Jednoetažni
+185079,97,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+165000,112,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni
+182000,142,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni
+60000,75,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni
+52800,66,Karlovaèka,Karlovac,Banija,2-sobni,U stambenoj zgradi,Jednoetažni
+73430,67,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni
+90200,82,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni
+88000,80,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni
+110000,101,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni
+66000,120,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni
+115000,59,Karlovaèka,Karlovac,Dubovac,2-sobni,U stambenoj zgradi,Jednoetažni
+99000,46,Karlovaèka,Karlovac,Rakovac,2-sobni,U stambenoj zgradi,Jednoetažni
+114000,62,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+68000,60,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni
+59900,27,Karlovaèka,Karlovac,Banija,Garsonijera,U stambenoj zgradi,Jednoetažni
+51000,70,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
+70000,55,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Višeetažni
+213000,116,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
+114000,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+119999,133,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U stambenoj zgradi,Dvoetažni
+65000,147,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Dvoetažni
+220000,128,Karlovaèka,Karlovac,Drežnik,4-sobni,U stambenoj zgradi,Jednoetažni
+70000,215,Karlovaèka,Karlovac,Banija,2-sobni,U kuæi,Jednoetažni
+158800,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+150100,57,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+159600,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+207400,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+159600,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+218500,81,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+200800,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+157800,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+207400,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+232900,87,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+212200,79,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni
+212700,79,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni
+290000,110,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni
+60000,27,Karlovaèka,Karlovac,Švarèa,Garsonijera,U stambenoj zgradi,Jednoetažni
+130000,103,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Dvoetažni
+60000,70,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni
+198874,77,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+226924,105,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
+108247,42,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+92896,36,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+132906,52,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+133390,52,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+168937,66,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+192729,75,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
+200022,78,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
+84379,33,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+139306,54,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+135252,53,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+171640,67,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+187246,73,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
+94222,36,Karlovaèka,Karlovac,Švarèa,1-sobni,U stambenoj zgradi,Jednoetažni
+89000,90,Karlovaèka,Karlovac,Hrnetiæ-Novaki,4-sobni,U stambenoj zgradi,Jednoetažni
+77000,40,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
+105000,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
+95000,47,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+69000,65,Karlovaèka,Josipdol,Josipdol,2-sobni,U stambenoj zgradi,Jednoetažni
+125000,72,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
+99000,68,Karlovaèka,Karlovac,Novi Centar,3-sobni,U stambenoj zgradi,Jednoetažni
+98000,62,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Dvoetažni
+129000,98,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni
+120000,160,Karlovaèka,Krnjak,Zimiæ,5+ sobni,U stambenoj zgradi,Jednoetažni
+45000,109,Karlovaèka,Ogulin,Ogulin,3-sobni,U kuæi,Jednoetažni
+110000,56,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
+343000,146,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
+235000,120,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
+155900,58,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Višeetažni
+66000,54,Karlovaèka,Slunj,Slunj,2-sobni,U stambenoj zgradi,Jednoetažni
+150000,72,Karlovaèka,Karlovac,Lušèiæ,3-sobni,U stambenoj zgradi,Jednoetažni
+111300,53,Karlovaèka,Karlovac,Rakovac,2-sobni,U stambenoj zgradi,Jednoetažni
+73900,45,Karlovaèka,Karlovac,Zvijezda,1-sobni,U stambenoj zgradi,Jednoetažni
+110000,50,Karlovaèka,Karlovac,Turanj,2-sobni,U stambenoj zgradi,Jednoetažni
+267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+249500,83,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
+199000,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
+89000,48,Karlovaèka,Karlovac,Lušèiæ,1-sobni,U stambenoj zgradi,Višeetažni
+180000,94,Karlovaèka,Karlovac,Banija,2-sobni,U kuæi,Jednoetažni
+152000,115,Karlovaèka,Karlovac,Rakovac,3-sobni,U stambenoj zgradi,Jednoetažni
+220000,224,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U kuæi,Jednoetažni
+85000,90,Karlovaèka,Karlovac,Hrnetiæ-Novaki,4-sobni,U kuæi,Jednoetažni
+149000,70,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni
+110000,53,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
+130000,58,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
+59000,70,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni
+165000,113,Karlovaèka,Karlovac,Rakovac,4-sobni,U stambenoj zgradi,Jednoetažni
+135000,290,Karlovaèka,Ogulin,Ogulin,5+ sobni,U stambenoj zgradi,Jednoetažni
+250000,139,Karlovaèka,Karlovac,Zvijezda,4-sobni,U kuæi,Dvoetažni
