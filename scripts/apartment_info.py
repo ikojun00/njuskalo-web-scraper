@@ -7,7 +7,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 urls = []
 
-with open('apartment_links_3.csv', 'r', newline='') as file:
+with open('apartment_links.csv', 'r', newline='') as file:
     reader = csv.reader(file)
     for row in reader:
         urls.extend(row)
@@ -30,9 +30,9 @@ headers = {
   'user-agent': ua.random
 }
 
-csv_header = ["Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors"]
+csv_header = ["Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year", "Url"]
 
-with open('apartment_info_3.csv', 'w', newline='') as file:
+with open('apartment_info.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(csv_header)
     
@@ -60,23 +60,53 @@ with open('apartment_info_3.csv', 'w', newline='') as file:
             county_pattern = r"County:\s*([^\n]+)"
             city_pattern = r"City:\s*([^\n]+)"
             neighborhood_pattern = r"Neighborhood:\s*([^\n]+)"
-            city_pattern = r"City:\s*([^\n]+)"
             number_of_rooms_pattern = r"Broj soba:\s*([^\n]+)"
             type_of_flat_pattern = r"Tip stana:\s*([^\n]+)"
             number_of_floors_pattern = r"Broj etaža:\s*([^\n]+)"
             living_area_pattern = r"Stambena površina:\s*(\d+)"
+            furnishing_pattern = r"Namještenost i stanje:\s*([^\n]+)"
+            energy_class_pattern = r"Energetski razred:\s*([^\n]+)"
+            floor_pattern = r"Kat:\s*([^\n]+)"
+            year_pattern = r"Godina izgradnje:\s*([^\n]+)"
 
+            price = re.search(price_pattern, result)
+            price = price.group(1) if price else "Unknown"
 
-            price = re.search(price_pattern, result).group(1)
-            county = re.search(county_pattern, result).group(1)
-            city = re.search(city_pattern, result).group(1)
-            neighborhood = re.search(neighborhood_pattern, result).group(1)
-            number_of_rooms = re.search(number_of_rooms_pattern, result).group(1)
-            type_of_flat = re.search(type_of_flat_pattern, result).group(1)
-            number_of_floors = re.search(number_of_floors_pattern, result).group(1)
-            living_area = re.search(living_area_pattern, result).group(1)
+            county = re.search(county_pattern, result)
+            county = county.group(1) if county else "Unknown"
 
-            writer.writerow([price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors])
+            city = re.search(city_pattern, result)
+            city = city.group(1) if city else "Unknown"
+
+            neighborhood = re.search(neighborhood_pattern, result)
+            neighborhood = neighborhood.group(1) if neighborhood else "Unknown"
+
+            number_of_rooms = re.search(number_of_rooms_pattern, result)
+            number_of_rooms = number_of_rooms.group(1) if number_of_rooms else "Unknown"
+
+            type_of_flat = re.search(type_of_flat_pattern, result)
+            type_of_flat = type_of_flat.group(1) if type_of_flat else "Unknown"
+
+            number_of_floors = re.search(number_of_floors_pattern, result)
+            number_of_floors = number_of_floors.group(1) if number_of_floors else "Unknown"
+
+            living_area = re.search(living_area_pattern, result)
+            living_area = living_area.group(1) if living_area else "Unknown"
+
+            furnishing = re.search(furnishing_pattern, result)
+            furnishing = furnishing.group(1) if furnishing else "Unknown"
+
+            energy_class = re.search(energy_class_pattern, result)
+            energy_class = energy_class.group(1) if energy_class else "Unknown"
+
+            floor = re.search(floor_pattern, result)
+            floor = floor.group(1) if floor else "Unknown"
+
+            year = re.search(year_pattern, result)
+            year = year.group(1) if year else "Unknown"
+            
+
+            writer.writerow([price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year, url])
 
             progress_percentage = (counter / len(urls)) * 100
             print(f"Progress: {progress_percentage:.2f}%")

@@ -4,6 +4,7 @@ import requests
 from fake_useragent import UserAgent
 
 ua = UserAgent()
+county = "bjelovarsko-bilogorska"
 
 headers = {
   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -23,7 +24,7 @@ headers = {
 }
 
 with requests.Session() as session:
-    response = session.get("https://www.njuskalo.hr/prodaja-stanova/splitsko-dalmatinska", headers=headers)
+    response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}", headers=headers)
     apartment_links = []
 
     counter = 0
@@ -43,7 +44,7 @@ with requests.Session() as session:
         counter += 1
         print(f"{counter}. page done!")
 
-        response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/splitsko-dalmatinska?page={next_page}", headers=headers)
+        response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}?page={next_page}", headers=headers)
 
     # Write apartment links to a CSV file
     with open('apartment_links.csv', 'w', newline='') as file:
