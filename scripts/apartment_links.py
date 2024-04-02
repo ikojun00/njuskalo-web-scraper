@@ -4,7 +4,7 @@ import requests
 from fake_useragent import UserAgent
 
 ua = UserAgent()
-county = "bjelovarsko-bilogorska"
+county = "splitsko-dalmatinska"
 
 headers = {
   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',

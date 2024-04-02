@@ -30,7 +30,7 @@ headers = {
   'user-agent': ua.random
 }
 
-csv_header = ["Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year", "Url"]
+csv_header = ["Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
 with open('apartment_info.csv', 'w', newline='') as file:
     writer = csv.writer(file)
@@ -67,7 +67,7 @@ with open('apartment_info.csv', 'w', newline='') as file:
             furnishing_pattern = r"Namještenost i stanje:\s*([^\n]+)"
             energy_class_pattern = r"Energetski razred:\s*([^\n]+)"
             floor_pattern = r"Kat:\s*([^\n]+)"
-            year_pattern = r"Godina izgradnje:\s*([^\n]+)"
+            year_of_construction_pattern = r"Godina izgradnje:\s*([^\n]+)"
 
             price = re.search(price_pattern, result)
             price = price.group(1) if price else "Unknown"
@@ -102,11 +102,11 @@ with open('apartment_info.csv', 'w', newline='') as file:
             floor = re.search(floor_pattern, result)
             floor = floor.group(1) if floor else "Unknown"
 
-            year = re.search(year_pattern, result)
-            year = year.group(1) if year else "Unknown"
+            year_of_construction = re.search(year_of_construction_pattern, result)
+            year_of_construction = year_of_construction.group(1) if year_of_construction else "Unknown"
             
 
-            writer.writerow([price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year, url])
+            writer.writerow([price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
 
             progress_percentage = (counter / len(urls)) * 100
             print(f"Progress: {progress_percentage:.2f}%")
