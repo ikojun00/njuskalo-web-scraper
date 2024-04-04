@@ -30,7 +30,9 @@ with requests.Session() as session:
     counter = 0
     while True:
         soup = BeautifulSoup(response.text, 'html.parser')
-        apartments = soup.select("li.EntityList-item.EntityList-item--VauVau.bp-radix__faux-anchor") + soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
+        # Listings in Vau Vau section are also in the regular section, this line creates unnecessery duplicates
+        # apartments = soup.select("li.EntityList-item.EntityList-item--VauVau.bp-radix__faux-anchor") + soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
+        apartments = soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
         
         for apartment in apartments:
             link = f"https://www.njuskalo.hr{apartment['data-href']}"

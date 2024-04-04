@@ -7,7 +7,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 urls = []
 
-with open('apartment_links.csv', 'r', newline='') as file:
+with open('new.csv', 'r', newline='') as file:
     reader = csv.reader(file)
     for row in reader:
         urls.extend(row)
