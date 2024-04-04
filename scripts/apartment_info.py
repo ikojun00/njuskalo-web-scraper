@@ -30,7 +30,7 @@ headers = {
   'user-agent': ua.random
 }
 
-csv_header = ["Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
+csv_header = ["Date", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
 with open('apartment_info.csv', 'w', newline='') as file:
     writer = csv.writer(file)
@@ -40,9 +40,10 @@ with open('apartment_info.csv', 'w', newline='') as file:
         for counter, url in enumerate(urls, start=1):
             response = session.get(url, headers=headers)
             soup = BeautifulSoup(response.text, 'html.parser')
-            price = soup.select_one('dd.ClassifiedDetailSummary-priceDomestic').text.replace(" ", "").replace("€", "").replace(".", "")
+            price = soup.select_one('dd.ClassifiedDetailSummary-priceDomestic').text.replace(" ", "").replace("€", "").replace(".", "").strip()
+            date = soup.select_one('dd.ClassifiedDetailSystemDetails-listData').text.strip().split(' ')[0]
             values = soup.select('span.ClassifiedDetailBasicDetails-textWrapContainer')
-            result = f"Cijena: {price}"
+            result = ""
             for i, value in enumerate(values, start=1):
                 text = value.get_text(strip=True)
                 if(i != 1):
@@ -56,7 +57,6 @@ with open('apartment_info.csv', 'w', newline='') as file:
                     else:
                         result += text + "\n"
 
-            price_pattern = r"Cijena:\s*(\d+)"
             county_pattern = r"County:\s*([^\n]+)"
             city_pattern = r"City:\s*([^\n]+)"
             neighborhood_pattern = r"Neighborhood:\s*([^\n]+)"
@@ -68,9 +68,6 @@ with open('apartment_info.csv', 'w', newline='') as file:
             energy_class_pattern = r"Energetski razred:\s*([^\n]+)"
             floor_pattern = r"Kat:\s*([^\n]+)"
             year_of_construction_pattern = r"Godina izgradnje:\s*([^\n]+)"
-
-            price = re.search(price_pattern, result)
-            price = price.group(1) if price else "Unknown"
 
             county = re.search(county_pattern, result)
             county = county.group(1) if county else "Unknown"
@@ -106,7 +103,7 @@ with open('apartment_info.csv', 'w', newline='') as file:
             year_of_construction = year_of_construction.group(1) if year_of_construction else "Unknown"
             
 
-            writer.writerow([price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
+            writer.writerow([date, price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
 
             progress_percentage = (counter / len(urls)) * 100
             print(f"Progress: {progress_percentage:.2f}%")
