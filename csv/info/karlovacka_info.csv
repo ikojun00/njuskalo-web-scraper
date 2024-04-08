@@ -1,146 +1,152 @@
-Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors
-350000,178,Karlovaèka,Karlovac,Švarèa,5+ sobni,U stambenoj zgradi,Dvoetažni
-300000,137,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
-290000,127,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
-88500,73,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
-65000,65,Karlovaèka,Duga Resa,Duga Resa,2-sobni,U kuæi,Jednoetažni
-245000,258,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U kuæi,Jednoetažni
-180000,114,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni
-337000,94,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,4-sobni,U stambenoj zgradi,Jednoetažni
-167000,50,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-460000,200,Karlovaèka,Karlovac,Novi Centar,5+ sobni,U stambenoj zgradi,Dvoetažni
-69000,40,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-119999,63,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-123998,70,Karlovaèka,Karlovac,Novi Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-70000,55,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni
-60000,70,Karlovaèka,Josipdol,Skradnik,2-sobni,U stambenoj zgradi,Jednoetažni
-85000,66,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
-93000,100,Karlovaèka,Ogulin,Ogulin,3-sobni,U kuæi,Dvoetažni
-281500,93,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-199500,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-249500,71,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-210500,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-256000,85,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-87500,35,Karlovaèka,Karlovac,Zvijezda,2-sobni,U stambenoj zgradi,Jednoetažni
-74000,54,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-120000,101,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni
-73000,52,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-130000,58,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-93000,105,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
-84000,54,Karlovaèka,Karlovac,Zvijezda,2-sobni,U stambenoj zgradi,Jednoetažni
-254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-210500,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-281500,93,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-256000,85,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-199500,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-249500,83,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-120000,53,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Jednoetažni
-117000,90,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni
-59000,46,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni
-96000,48,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Jednoetažni
-125000,72,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
-295000,127,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
-305000,137,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Dvoetažni
-350000,178,Karlovaèka,Karlovac,Švarèa,5+ sobni,U stambenoj zgradi,Dvoetažni
-245000,258,Karlovaèka,Karlovac,Banija,5+ sobni,U stambenoj zgradi,Jednoetažni
-113000,51,Karlovaèka,Karlovac,Banija,2-sobni,U stambenoj zgradi,Jednoetažni
-185079,97,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-165000,112,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni
-182000,142,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni
-60000,75,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni
-52800,66,Karlovaèka,Karlovac,Banija,2-sobni,U stambenoj zgradi,Jednoetažni
-73430,67,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni
-90200,82,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni
-88000,80,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni
-110000,101,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni
-66000,120,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni
-115000,59,Karlovaèka,Karlovac,Dubovac,2-sobni,U stambenoj zgradi,Jednoetažni
-99000,46,Karlovaèka,Karlovac,Rakovac,2-sobni,U stambenoj zgradi,Jednoetažni
-114000,62,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-68000,60,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni
-59900,27,Karlovaèka,Karlovac,Banija,Garsonijera,U stambenoj zgradi,Jednoetažni
-51000,70,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni
-70000,55,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Višeetažni
-213000,116,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
-114000,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-119999,133,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U stambenoj zgradi,Dvoetažni
-65000,147,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Dvoetažni
-220000,128,Karlovaèka,Karlovac,Drežnik,4-sobni,U stambenoj zgradi,Jednoetažni
-70000,215,Karlovaèka,Karlovac,Banija,2-sobni,U kuæi,Jednoetažni
-158800,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-150100,57,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-159600,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-207400,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-159600,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-218500,81,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-200800,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-157800,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-207400,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-232900,87,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-212200,79,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni
-212700,79,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni
-290000,110,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni
-60000,27,Karlovaèka,Karlovac,Švarèa,Garsonijera,U stambenoj zgradi,Jednoetažni
-130000,103,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Dvoetažni
-60000,70,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni
-198874,77,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-226924,105,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
-108247,42,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-92896,36,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-132906,52,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-133390,52,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-168937,66,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-192729,75,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
-200022,78,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
-84379,33,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-139306,54,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-135252,53,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-171640,67,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-187246,73,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
-94222,36,Karlovaèka,Karlovac,Švarèa,1-sobni,U stambenoj zgradi,Jednoetažni
-89000,90,Karlovaèka,Karlovac,Hrnetiæ-Novaki,4-sobni,U stambenoj zgradi,Jednoetažni
-77000,40,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-105000,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni
-95000,47,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-69000,65,Karlovaèka,Josipdol,Josipdol,2-sobni,U stambenoj zgradi,Jednoetažni
-125000,72,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni
-99000,68,Karlovaèka,Karlovac,Novi Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-98000,62,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Dvoetažni
-129000,98,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni
-120000,160,Karlovaèka,Krnjak,Zimiæ,5+ sobni,U stambenoj zgradi,Jednoetažni
-45000,109,Karlovaèka,Ogulin,Ogulin,3-sobni,U kuæi,Jednoetažni
-110000,56,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-343000,146,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni
-235000,120,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni
-155900,58,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Višeetažni
-66000,54,Karlovaèka,Slunj,Slunj,2-sobni,U stambenoj zgradi,Jednoetažni
-150000,72,Karlovaèka,Karlovac,Lušèiæ,3-sobni,U stambenoj zgradi,Jednoetažni
-111300,53,Karlovaèka,Karlovac,Rakovac,2-sobni,U stambenoj zgradi,Jednoetažni
-73900,45,Karlovaèka,Karlovac,Zvijezda,1-sobni,U stambenoj zgradi,Jednoetažni
-110000,50,Karlovaèka,Karlovac,Turanj,2-sobni,U stambenoj zgradi,Jednoetažni
-267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-249500,83,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni
-199000,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni
-89000,48,Karlovaèka,Karlovac,Lušèiæ,1-sobni,U stambenoj zgradi,Višeetažni
-180000,94,Karlovaèka,Karlovac,Banija,2-sobni,U kuæi,Jednoetažni
-152000,115,Karlovaèka,Karlovac,Rakovac,3-sobni,U stambenoj zgradi,Jednoetažni
-220000,224,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U kuæi,Jednoetažni
-85000,90,Karlovaèka,Karlovac,Hrnetiæ-Novaki,4-sobni,U kuæi,Jednoetažni
-149000,70,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni
-110000,53,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni
-130000,58,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni
-59000,70,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni
-165000,113,Karlovaèka,Karlovac,Rakovac,4-sobni,U stambenoj zgradi,Jednoetažni
-135000,290,Karlovaèka,Ogulin,Ogulin,5+ sobni,U stambenoj zgradi,Jednoetažni
-250000,139,Karlovaèka,Karlovac,Zvijezda,4-sobni,U kuæi,Dvoetažni
+Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors,Furnishing,Energy class,Floor,Year of construction,Url
+02.04.2024.,233910,77,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/3s-stan-mrzlo-polje-77.97-m2-oglas-43291944
+07.04.2024.,48997,25,Karlovaèka,Duga Resa,Duga Resa,Garsonijera,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1964.,https://www.njuskalo.hr/nekretnine/prodaja-stan-duga-resa-bana-josipa-jelacica-26-garsonjera-25m2-oglas-43362453
+07.04.2024.,54998,65,Karlovaèka,Duga Resa,Duga Resa,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,2.,1980.,https://www.njuskalo.hr/nekretnine/prodaja-stan-duga-resa-tusmer-2s-65m2-oglas-43362452
+07.04.2024.,122995,70,Karlovaèka,Karlovac,Novi Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,1982.,https://www.njuskalo.hr/nekretnine/prodaja-stan-centar-ivana-mestrovica-3s-70m2-oglas-43362451
+06.04.2024.,245000,258,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U kuæi,Jednoetažni,Djelomièno namješten,Unknown,1.,1930.,https://www.njuskalo.hr/nekretnine/stan-karlovac-top-lokaciji-zvijezdi-258-m2-povoljno-prodajem-oglas-40295627
+05.04.2024.,73000,52,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovcu-svarca-oglas-41593793
+04.04.2024.,133000,62,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,2.,1986.,https://www.njuskalo.hr/nekretnine/stan-karlovac-svarca-62.00-m2-renoviran-namjesten-oglas-43287577
+04.04.2024.,220000,225,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U kuæi,Jednoetažni,Unknown,Unknown,1.,1830.,https://www.njuskalo.hr/nekretnine/stan-karlovac-302.00-m2-oglas-40595580
+04.04.2024.,420000,200,Karlovaèka,Karlovac,Novi Centar,5+ sobni,U stambenoj zgradi,Dvoetažni,Unknown,B,Prizemlje,2013.,https://www.njuskalo.hr/nekretnine/prodaja-stana-karlovac-oglas-42888344
+03.04.2024.,350000,178,Karlovaèka,Karlovac,Švarèa,5+ sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/dvoetazni-penthouse-novogradnji-oglas-43013302
+03.04.2024.,300000,137,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-novogradnji-oglas-43013300
+03.04.2024.,290000,127,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-novogradnji-oglas-43013299
+03.04.2024.,99000,53,Karlovaèka,Karlovac,Rakovac,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,2.,1968.,https://www.njuskalo.hr/nekretnine/stan-karlovac-53.00-m2-oglas-43322619
+03.04.2024.,98000,62,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,4.,1989.,https://www.njuskalo.hr/nekretnine/odlican-stan-karlovcu-luscic-62.80-m2-oglas-42904896
+03.04.2024.,129000,98,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,2.,2007.,https://www.njuskalo.hr/nekretnine/stan-karlovac-banija-35-98.73-m2-novogradnja-oglas-40549719
+03.04.2024.,96000,48,Karlovaèka,Karlovac,Lušèiæ,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,C,6.,1989.,https://www.njuskalo.hr/nekretnine/luscic-1.5-48m2-6-kat-et-centralno-lift-pvc-klima-novoureden-oglas-36009222
+03.04.2024.,245000,258,Karlovaèka,Karlovac,Banija,5+ sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-centar-predivan-salonski-stan-260m2-top-lokaciji-oglas-42267065
+02.04.2024.,130000,58,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,1960.,https://www.njuskalo.hr/nekretnine/karlovac-svarca-potpuno-renoviran-trosoban-stan-58-m2-oglas-42768840
+02.04.2024.,254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-84.65m2-oglas-42784035
+02.04.2024.,231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-77.24m2-oglas-42784043
+02.04.2024.,267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-89.22m2-oglas-42784038
+02.04.2024.,210500,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-70.19m2-oglas-42784039
+02.04.2024.,256000,85,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-85.24m2-oglas-42784037
+02.04.2024.,210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-70.26m2-oglas-42784033
+02.04.2024.,281500,93,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-93.9m2-oglas-42784044
+02.04.2024.,199500,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-66.59m2-oglas-42784042
+02.04.2024.,249500,71,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornje-mrzlo-polje-mreznicko-71.42m2-oglas-42784040
+02.04.2024.,214260,71,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/3s-stan-mrzlo-polje-71.42-m2-oglas-43291780
+02.04.2024.,257340,85,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/3s-stan-mrzlo-polje-85.78-m2-oglas-43291858
+02.04.2024.,233910,77,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/2s-stan-mrzlo-polje-77.97-m2-oglas-43291884
+02.04.2024.,257340,85,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,3-sobni,U kuæi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/3s-stan-mrzlo-polje-85.78-m2-oglas-43291903
+02.04.2024.,259290,86,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/2s-stan-mrzlo-polje-86.43-m2-oglas-43291967
+02.04.2024.,204060,68,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/2s-stan-mrzlo-polje-68.02-m2-oglas-43291994
+02.04.2024.,204060,68,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/2s-stan-mrzlo-polje-68.02-m2-oglas-43292060
+02.04.2024.,259290,86,Karlovaèka,Duga Resa,Donje Mrzlo Polje Mrežnièko,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/2s-stan-mrzlo-polje-86.43-m2-oglas-43292036
+02.04.2024.,125000,72,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-novogradnji-72m2-garaza-oglas-43100745
+02.04.2024.,66000,54,Karlovaèka,Slunj,Slunj,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/centar-54m2-loda-balkon-oglas-40625309
+02.04.2024.,89000,90,Karlovaèka,Karlovac,Hrnetiæ-Novaki,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/etaza-kuce-90m2-garazom-oglas-42745495
+01.04.2024.,267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-okolica-stan-urbanoj-vili-2s-db-81-m2-oglas-42605948
+01.04.2024.,199500,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/okolica-karlovca-stan-novogradnji-66.5-m2-1s-db-oglas-42605947
+01.04.2024.,210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,2.,Unknown,https://www.njuskalo.hr/nekretnine/okolica-karlovca-1s-db-70-m2-urbanoj-vili-9-stambenih-jedinica-oglas-42605946
+01.04.2024.,249500,83,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/okolica-karlovca-stan-71.5-m2-2s-db-luksuznoj-novogradnji-oglas-42605944
+01.04.2024.,231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/karlovac-okolica-1s-db-urbanoj-vili-229-m2-okucnice-oglas-42605942
+01.04.2024.,254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,2.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-okolica-stan-79-m2-1s-db-oglas-42646521
+01.04.2024.,210500,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,2.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-okolica-stan-urbanoj-vili-1s-db-64-m2-oglas-42646520
+01.04.2024.,281500,93,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/okolica-karlovca-luksuzan-stan-urbanoj-vili-2s-db-oglas-42646518
+01.04.2024.,256000,85,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,2.,Unknown,https://www.njuskalo.hr/nekretnine/luksuzni-stan-prostranom-lodom-predgradu-karlovca-oglas-42646517
+30.03.2024.,115000,62,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,Unknown,https://www.njuskalo.hr/nekretnine/renoviran-stan-karlovcu-oglas-43296523
+29.03.2024.,140000,85,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Višeetažni,Djelomièno namješten,B,3.,2023.,https://www.njuskalo.hr/nekretnine/stan-karlovac-65.00-m2-novogradnja-oglas-43293986
+29.03.2024.,145000,121,Karlovaèka,Karlovac,Švarèa,5+ sobni,U kuæi,Jednoetažni,Nenamješten,Unknown,1.,1970.,https://www.njuskalo.hr/nekretnine/novoadaptiran-stan-karlovcu-kod-bolnice-121.45-m2-oglas-43290794
+29.03.2024.,185079,97,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2023.,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-stan-karlovac-svarca-97.41m2-2s-db-oglas-42577719
+29.03.2024.,165000,112,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-poslovni-prostor-karlovac-centar-112.60m2-oglas-41925431
+29.03.2024.,182000,142,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,1897.,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-korzo-4skl-142.68m2-oglas-41925414
+29.03.2024.,60000,75,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-banija-75m2-oglas-41925168
+29.03.2024.,52800,66,Karlovaèka,Karlovac,Banija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-banija-66m2-oglas-41925154
+29.03.2024.,73430,67,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-mostanje-67.73m2-2s-oglas-41925461
+29.03.2024.,90200,82,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,Potkrovlje,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-mostanje-82.32m2-2s-oglas-41925448
+29.03.2024.,66000,120,Karlovaèka,Karlovac,Banija,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-banija-120m2-oglas-41925306
+29.03.2024.,88000,80,Karlovaèka,Karlovac,Mostanje,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-mostanje-80.26m2-2s-oglas-41925450
+29.03.2024.,110000,101,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Potkrovlje,Unknown,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-zvijezda-4s-102m2-oglas-41925360
+29.03.2024.,115000,59,Karlovaèka,Karlovac,Dubovac,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,1974.,https://www.njuskalo.hr/nekretnine/prodaja-stan-karlovac-v-holjevca-59.19m2-oglas-41925231
+28.03.2024.,65000,147,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/hitna-prodaja-oglas-42736536
+28.03.2024.,"139306,50",54,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-54.63-m2-novogradnja-oglas-42981147
+28.03.2024.,192729,75,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-75.58-m2-novogradnja-oglas-42981212
+28.03.2024.,"168937,50",66,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-66.25-m2-novogradnja-oglas-42981231
+28.03.2024.,120000,101,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1905.,https://www.njuskalo.hr/nekretnine/prodaja-stana-karlovac-102-m2-adaptaciju-oglas-43082298
+28.03.2024.,192000,143,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/veliki-stan-centru-parking-oglas-43281318
+28.03.2024.,249000,258,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/245m2-strogi-centar-3-parkirna-mjesta-oglas-43281317
+27.03.2024.,105000,51,Karlovaèka,Karlovac,Banija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,1964.,https://www.njuskalo.hr/nekretnine/balkona-gledajte-camce-jednojnod-4-rijeke-oglas-42935580
+27.03.2024.,70000,55,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Višeetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/dvosobni-stan-centru-ogulina-oglas-42811428
+27.03.2024.,220000,128,Karlovaèka,Karlovac,Drežnik,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,1905.,https://www.njuskalo.hr/nekretnine/stan-villi-karlovcu-oglas-42584602
+27.03.2024.,51000,70,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/ogulin-stan-2s-db-70-m-oglas-34329417
+27.03.2024.,107000,62,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,11.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-62.00-m2-oglas-43274932
+26.03.2024.,45000,109,Karlovaèka,Ogulin,Ogulin,3-sobni,U kuæi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-ogulin-109.00-m2-oglas-40598426
+26.03.2024.,35000,50,Karlovaèka,Karlovac,Dubovac,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/50m2-centar-grada-blizina-sadrzaja-oglas-43264646
+25.03.2024.,80000,54,Karlovaèka,Karlovac,Zvijezda,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-macekova-preko-puta-hollywoodu-oglas-42884029
+25.03.2024.,119999,133,Karlovaèka,Karlovac,Zvijezda,5+ sobni,U stambenoj zgradi,Dvoetažni,Nenamješten,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-korzo-centar-133-kvadrata-oglas-38871322
+25.03.2024.,60000,27,Karlovaèka,Karlovac,Švarèa,Garsonijera,U stambenoj zgradi,Jednoetažni,Unknown,C,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-svarca-karlovac-oglas-41684705
+25.03.2024.,60000,70,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-centru-ogulina-oglas-41386664
+25.03.2024.,130000,103,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-strogom-centru-karlovca-oglas-40534021
+25.03.2024.,200022,78,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-78.44-m2-novogradnja-oglas-42981189
+25.03.2024.,"133390,50",52,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-52.37-m2-novogradnja-oglas-42981247
+23.03.2024.,87500,35,Karlovaèka,Karlovac,Zvijezda,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1987.,https://www.njuskalo.hr/nekretnine/karlovac-kod-karlovcanke-36-m2-2-sobe-1-kat-oglas-43169112
+22.03.2024.,"94222,50",36,Karlovaèka,Karlovac,Švarèa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-36.95-m2-novogradnja-oglas-42981041
+22.03.2024.,"226924,50",105,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,7.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-88.99-m2-novogradnja-oglas-42981320
+22.03.2024.,165000,77,Karlovaèka,Karlovac,Dubovac,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,4.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-dubovac-oglas-43235431
+21.03.2024.,51000,34,Karlovaèka,Duga Resa,Duga Resa,1-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-duga-resa-34.00-m2-oglas-43229260
+21.03.2024.,213000,116,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/novogradnja-116m2-dvoetazni-stan-vrtom-oglas-40072904
+21.03.2024.,125000,72,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,Unknown,https://www.njuskalo.hr/nekretnine/72m2-trosoban-stan-oglas-40657940
+21.03.2024.,99000,68,Karlovaèka,Karlovac,Novi Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/68m2-2s-db-dobra-lokacija-parking-oglas-40643828
+21.03.2024.,343000,146,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/vrhunska-novogradnja-dvoetazni-stan-oglas-42821601
+21.03.2024.,132906,52,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-52.12-m2-novogradnja-oglas-42981272
+21.03.2024.,135252,53,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-53.04-m2-novogradnja-oglas-42981097
+21.03.2024.,"108247,50",42,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-42.45-m2-novogradnja-oglas-42981305
+21.03.2024.,"198874,50",77,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,7.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-77.99-m2-novogradnja-oglas-42981348
+19.03.2024.,180000,114,Karlovaèka,Karlovac,Zvijezda,4-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-centar-4-sobe-109-m2-1-kat-garaza-oglas-41548090
+19.03.2024.,337000,94,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,2024.,https://www.njuskalo.hr/nekretnine/luksuzni-dvoetazni-penthaus-94m2-plus-terasa-88-m2-oglas-39103054
+19.03.2024.,167000,50,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-kod-karlovca-oglas-39103051
+17.03.2024.,70000,55,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-ogulin-55.3m2-oglas-43184407
+17.03.2024.,60000,70,Karlovaèka,Josipdol,Skradnik,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-skradnik-70m2-oglas-43184406
+17.03.2024.,85000,66,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-ogulin-66.6m2-oglas-43184405
+15.03.2024.,93000,100,Karlovaèka,Ogulin,Ogulin,3-sobni,U kuæi,Dvoetažni,Unknown,Unknown,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-prizemlju-kuce-dvoristem-centru-ogulina-oglas-40950019
+15.03.2024.,74000,54,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/52m2-blizina-skole-vrtica-oglas-43169042
+11.03.2024.,93000,105,Karlovaèka,Ogulin,Ogulin,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,1963.,https://www.njuskalo.hr/nekretnine/ogulin-centar-stan-2-sb-db-okucnicom-oglas-40977661
+08.03.2024.,59000,46,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni,Unknown,Unknown,Prizemlje,1903.,https://www.njuskalo.hr/nekretnine/stan-prodaja-karlovac-banija-46-m2-2-soban-oglas-43109139
+07.03.2024.,305000,137,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Dvoetažni,Unknown,A,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/prekrasan-dvoetazni-stan-odlicnoj-lokaciji-oglas-42486960
+07.03.2024.,350000,178,Karlovaèka,Karlovac,Švarèa,5+ sobni,U stambenoj zgradi,Dvoetažni,Unknown,A,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-karlovac-penthouse-178.00-m2-novogradnja-oglas-42605201
+04.03.2024.,68000,60,Karlovaèka,Karlovac,Banija,3-sobni,U kuæi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/60m2-stan-prizemlju-kuce-oglas-42070714
+27.02.2024.,114000,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/60.62m2-veliki-dnevni-boravak-spremiste-oglas-40339647
+26.02.2024.,158800,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s5-karlovac-grabrik-4-60.70-m2-novogradnja-oglas-40922056
+26.02.2024.,150100,57,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s12-karlovac-grabrik-4-57.22-m2-novogradnja-oglas-40980532
+26.02.2024.,159600,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-karlovac-61.02-m2-novogradnja-oglas-40912529
+26.02.2024.,207400,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,6.,2024.,https://www.njuskalo.hr/nekretnine/stan-s10-karlovac-grabrik-4-77.36-m2-novogradnja-oglas-40968041
+26.02.2024.,159600,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s11-karlovac-grabrik-4-61.02-m2-novogradnja-oglas-40968073
+26.02.2024.,218500,81,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s6-karlovac-grabrik-4-81.80-m2-novogradnja-oglas-40929188
+26.02.2024.,200800,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s1-karlovac-grabrik-4-77.47-m2-novogradnja-oglas-40911496
+26.02.2024.,157800,60,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-s7-prizemlje-karlovac-60.32-m2-novogradnja-oglas-40937953
+26.02.2024.,207400,77,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s3-karlovac-grabrik-4-77.00-m2-novogradnja-oglas-40918702
+26.02.2024.,232900,87,Karlovaèka,Karlovac,Grabrik,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s7-karlovac-87.56-m2-novogradnja-oglas-40937973
+26.02.2024.,212200,79,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s9-karlovac-grabrik4-79.26-m2-novogradnja-oglas-40949524
+26.02.2024.,212700,79,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s4-karlovac-grabrik-4-79.46-m2-novogradnja-oglas-40918786
+26.02.2024.,290000,110,Karlovaèka,Karlovac,Grabrik,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s8-karlovac-grabrik-4-110.38-m2-novogradnja-oglas-40949493
+26.02.2024.,"84379,50",33,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-33.09-m2-novogradnja-oglas-42981169
+26.02.2024.,"171640,50",67,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-67.31-m2-novogradnja-oglas-42981083
+26.02.2024.,"187246,50",73,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-73.43-m2-novogradnja-oglas-42981068
+21.02.2024.,105000,61,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,1980.,https://www.njuskalo.hr/nekretnine/stan-karlovac-61.00-m2-oglas-42940410
+20.02.2024.,95000,47,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,Visoko prizemlje,1970.,https://www.njuskalo.hr/nekretnine/stan-karlovac-47.00-m2-oglas-42929311
+09.02.2024.,120000,160,Karlovaèka,Krnjak,Zimiæ,5+ sobni,U stambenoj zgradi,Jednoetažni,Unknown,D,Unknown,1978.,https://www.njuskalo.hr/nekretnine/karlovac-seosko-imanje-ekoloskim-nasadima-ljesnjaka-jabuka-oraha-oglas-41942388
+08.02.2024.,110000,56,Karlovaèka,Karlovac,Novi Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,2.,1970.,https://www.njuskalo.hr/nekretnine/2-sobni-stan-karlovac-sarajevska-ul-56.00-m2-oglas-42823214
+07.02.2024.,235000,120,Karlovaèka,Karlovac,Švarèa,4-sobni,U stambenoj zgradi,Dvoetažni,Unknown,A+,Unknown,2023.,https://www.njuskalo.hr/nekretnine/stan-vrtom-karlovac-svarca-112.82m2-novogradnja-oglas-37473207
+04.02.2024.,155900,58,Karlovaèka,Karlovac,Grabrik,2-sobni,U stambenoj zgradi,Višeetažni,Potpuno namješten,Unknown,5.,2023.,https://www.njuskalo.hr/nekretnine/stan-novogradnja-useljiv-odmah-oglas-42785248
+27.01.2024.,111300,53,Karlovaèka,Karlovac,Rakovac,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,3.,1963.,https://www.njuskalo.hr/nekretnine/atraktivan-stan-rakovac-oglas-41226977
+22.01.2024.,73900,45,Karlovaèka,Karlovac,Zvijezda,1-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-45.37-m2-oglas-42599271
+21.01.2024.,110000,50,Karlovaèka,Karlovac,Turanj,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-50.00-m2-oglas-42279913
+20.01.2024.,267500,89,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-73m2-novogradnji-fantastic-oglas-42584550
+20.01.2024.,210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-63m2-novogradnji-fantastic-oglas-42584549
+20.01.2024.,254000,84,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-73m2-novogradnji-fantastic-oglas-42584547
+20.01.2024.,231500,77,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-61m2-novogradnji-fantastic-oglas-42584546
+20.01.2024.,249500,83,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-67m2-novogradnji-fantastic-oglas-42584543
+20.01.2024.,199000,66,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-63m2-novogradnji-fantastic-oglas-42584541
+20.01.2024.,210000,70,Karlovaèka,Duga Resa,Gornje Mrzlo Polje Mrežnièko,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/karlovac-mrzlo-polje-mreznicko-stan-61m2-novogradnji-fantastic-oglas-42584539
+14.01.2024.,89000,48,Karlovaèka,Karlovac,Lušèiæ,1-sobni,U stambenoj zgradi,Višeetažni,Nenamješten,A,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/prizemni-stan-terasom-karlovac-48.00-m2-oglas-42361468
+14.12.2023.,180000,94,Karlovaèka,Karlovac,Banija,2-sobni,U kuæi,Jednoetažni,Nenamješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-101.00-m2-oglas-41065768
+23.11.2023.,85000,90,Karlovaèka,Karlovac,Hrnetiæ-Novaki,4-sobni,U kuæi,Jednoetažni,Djelomièno namješten,Unknown,1.,1980.,https://www.njuskalo.hr/nekretnine/stan-karlovac-90.00-m2-oglas-42095161
+10.10.2023.,149000,70,Karlovaèka,Karlovac,Zvijezda,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,1939.,https://www.njuskalo.hr/nekretnine/karlovac-zvijezda-djelomicno-renoviran-stan-70.96-m2-starom-cen-oglas-39983096
+04.10.2023.,110000,53,Karlovaèka,Karlovac,Švarèa,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,B,Visoko prizemlje,1970.,https://www.njuskalo.hr/nekretnine/stan-karlovac-53.00-m2-oglas-41576463
+02.09.2023.,130000,58,Karlovaèka,Karlovac,Švarèa,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-karlovac-dubovac-rijecka-9a-58.61-m2-prodaja-oglas-41277845
+02.09.2023.,59000,70,Karlovaèka,Ogulin,Ogulin,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-ogulinu-70m2-oglas-41302216
+26.08.2023.,165000,113,Karlovaèka,Karlovac,Rakovac,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1903.,https://www.njuskalo.hr/nekretnine/karlovac-rakovac-stan-113m2-oglas-41250446
+07.06.2023.,135000,290,Karlovaèka,Ogulin,Ogulin,5+ sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1940.,https://www.njuskalo.hr/nekretnine/ogulin-centar-stan-oglas-39984826
+29.08.2022.,250000,139,Karlovaèka,Karlovac,Zvijezda,4-sobni,U kuæi,Dvoetažni,Unknown,Unknown,1.,1896.,https://www.njuskalo.hr/nekretnine/stan-karlovac-139-m2-centru-pogledom-kupu-oglas-722782

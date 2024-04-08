@@ -1,140 +1,136 @@
-Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors
-179000,82,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U stambenoj zgradi,Dvoetažni
-155000,86,Koprivnièko-križevaèka,Koprivnica,Banovac,3-sobni,U stambenoj zgradi,Jednoetažni
-165800,87,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-139000,86,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,4-sobni,U stambenoj zgradi,Dvoetažni
-190000,85,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-275200,128,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,5+ sobni,U kuæi,Dvoetažni
-155000,62,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-262400,122,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,5+ sobni,U kuæi,Dvoetažni
-195000,75,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-160000,61,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-159780,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-162750,70,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-159750,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-217565,93,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-122700,61,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni
-176000,65,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-162750,70,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-101000,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-134990,51,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,2-sobni,U stambenoj zgradi,Jednoetažni
-145900,73,Koprivnièko-križevaèka,Koprivnica,Tarašèice,4-sobni,U stambenoj zgradi,Jednoetažni
-249000,90,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-159900,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-171800,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-159750,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-217565,93,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-108950,43,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-118200,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-176990,70,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-214990,85,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,4-sobni,U stambenoj zgradi,Jednoetažni
-315507,123,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-154990,58,Koprivnièko-križevaèka,Koprivnica,Tarašèice,3-sobni,U stambenoj zgradi,Jednoetažni
-96900,47,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni
-187000,72,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-119900,80,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Dvoetažni
-109990,41,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni
-141450,57,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-138525,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-139800,58,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-149800,62,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-173200,72,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-97000,33,Koprivnièko-križevaèka,Koprivnica,Lenišæe,1-sobni,U stambenoj zgradi,Jednoetažni
-227000,83,Koprivnièko-križevaèka,Koprivnica,Cerine,4-sobni,U stambenoj zgradi,Jednoetažni
-2090,48,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-197000,84,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-135000,125,Koprivnièko-križevaèka,Koprivnica,Centar,5+ sobni,U stambenoj zgradi,Jednoetažni
-93000,62,Koprivnièko-križevaèka,Koprivnica,Banovac,2-sobni,U stambenoj zgradi,Jednoetažni
-262000,160,Koprivnièko-križevaèka,Koprivnica,Centar,5+ sobni,U stambenoj zgradi,Dvoetažni
-190490,88,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-191350,89,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-236070,109,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-225000,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-171785,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-124055,57,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-181890,84,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-125345,58,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-129860,60,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-84000,56,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni
-100800,56,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-190281,65,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni
-128570,59,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-89000,51,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-2150,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-2150,53,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-2150,73,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-2150,82,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-2150,60,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-2150,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-2150,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-2150,89,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-2150,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-2150,77,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-2150,53,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-121158,45,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni
-211825,84,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni
-171589,67,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni
-175999,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-179000,82,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U stambenoj zgradi,Dvoetažni
-115937,43,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni
-167968,65,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni
-260850,104,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Jednoetažni
-114999,59,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,2-sobni,U stambenoj zgradi,Jednoetažni
-108000,57,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni
-167968,65,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni
-268950,107,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Jednoetažni
-60000,116,Koprivnièko-križevaèka,Križevci,Karane,3-sobni,U stambenoj zgradi,Jednoetažni
-23000,58,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni
-282400,112,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Jednoetažni
-162125,64,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni
-169750,67,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni
-178700,71,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni
-155975,62,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni
-162100,64,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni
-219775,87,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni
-204275,81,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni
-217775,87,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni
-195500,78,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni
-82000,54,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni
-120000,61,Koprivnièko-križevaèka,Koprivnica,Dubovec,3-sobni,U stambenoj zgradi,Jednoetažni
-107000,77,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni
-171800,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-130075,60,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-130000,74,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-125300,58,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-148620,74,Koprivnièko-križevaèka,Koprivnica,Podolice,3-sobni,U stambenoj zgradi,Jednoetažni
-120000,77,Koprivnièko-križevaèka,Koprivnica,Banovac,4-sobni,U stambenoj zgradi,Višeetažni
-146000,62,Koprivnièko-križevaèka,Koprivnica,Banovac,2-sobni,U stambenoj zgradi,Jednoetažni
-145000,60,Koprivnièko-križevaèka,Koprivnica,Banovac,3-sobni,U stambenoj zgradi,Jednoetažni
-98000,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-125000,48,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni
-134000,84,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Dvoetažni
-108000,62,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni
-115920,70,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni
-101830,61,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni
-101740,61,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni
-115000,119,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U kuæi,Dvoetažni
-131400,73,Koprivnièko-križevaèka,Koprivnica,Banovac,3-sobni,U stambenoj zgradi,Jednoetažni
-233705,108,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-129215,60,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-116000,62,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni
-134990,48,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,2-sobni,U stambenoj zgradi,Jednoetažni
-125000,150,Koprivnièko-križevaèka,Križevci,Križevci,5+ sobni,U kuæi,Jednoetažni
-115000,120,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U kuæi,Dvoetažni
-169000,74,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,4-sobni,U stambenoj zgradi,Jednoetažni
-166000,74,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,3-sobni,U stambenoj zgradi,Jednoetažni
-184000,79,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,4-sobni,U stambenoj zgradi,Jednoetažni
-120000,58,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni
-175999,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-87500,50,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U stambenoj zgradi,Jednoetažni
-150000,75,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni
-159500,63,Koprivnièko-križevaèka,Koprivnica,Dubovec,3-sobni,U stambenoj zgradi,Jednoetažni
-109500,48,Koprivnièko-križevaèka,Koprivnica - Okolica,Herešin,3-sobni,U stambenoj zgradi,Jednoetažni
-135000,97,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,3-sobni,U kuæi,Dvoetažni
-120000,74,Koprivnièko-križevaèka,Koprivnica,Tarašèice,3-sobni,U stambenoj zgradi,Jednoetažni
-100000,103,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni
-55000,49,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U kuæi,Jednoetažni
-208250,119,Koprivnièko-križevaèka,Koprivnica,Lenišæe,5+ sobni,U kuæi,Jednoetažni
-135000,78,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni
-28000,59,Koprivnièko-križevaèka,Gola,Gola,2-sobni,U stambenoj zgradi,Jednoetažni
-60000,62,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U kuæi,Jednoetažni
+Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors,Furnishing,Energy class,Floor,Year of construction,Url
+07.04.2024.,190000,85,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/ekskluzivne-urbane-vile-2.150-eur-m2-oglas-41101668
+07.04.2024.,195000,75,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/cetverosoban-stan-dvoristem-vrlo-atraktivnoj-lokaciji-oglas-42345305
+07.04.2024.,275200,128,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,5+ sobni,U kuæi,Dvoetažni,Djelomièno namješten,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/ekskluzivne-urbane-vile-2.150-eur-m2-oglas-41101493
+07.04.2024.,155000,62,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/trosoban-stan-vrlo-atraktivnoj-lokaciji-novogradnja-oglas-42344588
+07.04.2024.,262400,122,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,5+ sobni,U kuæi,Dvoetažni,Djelomièno namješten,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/ekskluzivne-urbane-vile-2.150-eur-m2-oglas-41089524
+07.04.2024.,160000,61,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/trosoban-stan-dvoristem-vrlo-atraktivnoj-lokaciji-novogradnja-oglas-42344722
+06.04.2024.,219000,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,B,3.,Unknown,https://www.njuskalo.hr/nekretnine/luksuzan-stan-79m2-papagajka-opremljen-garaza-spremiste-oglas-43180976
+06.04.2024.,114999,59,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,2-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/dvosoban-stan-59.00m2-prizemlje-trg-kralja-zvonimira-tkz-oglas-42470936
+06.04.2024.,100800,56,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,Prizemlje,1970.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-56.00-m2-oglas-41406512
+05.04.2024.,155000,86,Koprivnièko-križevaèka,Koprivnica,Banovac,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-86.25-m2-j-j-strossmayera-oglas-40945605
+05.04.2024.,190281,65,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Unknown,2024.,https://www.njuskalo.hr/nekretnine/stan-krizevci-90.61-m2-novogradnja-oglas-43183068
+05.04.2024.,115937,43,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s7-lenisce-43.75-m2-novogradnja-oglas-41191410
+05.04.2024.,282400,112,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-s12-lenisce-112.96-m2-novogradnja-oglas-41192087
+05.04.2024.,167968,65,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s10-lenisce-65.87-novogradnja-oglas-41191618
+05.04.2024.,165800,87,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2015.,https://www.njuskalo.hr/nekretnine/stan-oglas-42798887
+05.04.2024.,139000,86,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,4-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,Prizemlje,2011.,https://www.njuskalo.hr/nekretnine/stan-oglas-40143581
+05.04.2024.,2150,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Roh-bau,B,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-55.30-m2-novogradnja-oglas-41276524
+05.04.2024.,2150,53,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Roh-bau,B,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-53.20-m2-novogradnja-oglas-41276491
+05.04.2024.,2150,73,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Roh-bau,B,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-73.90-m2-novogradnja-oglas-41276460
+05.04.2024.,2150,82,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Roh-bau,B,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-82.60-m2-novogradnja-oglas-41276393
+05.04.2024.,2150,60,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-60.50-m2-novogradnja-oglas-41276248
+05.04.2024.,2150,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-55.30-m2-novogradnja-oglas-41275968
+05.04.2024.,2150,77,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Roh-bau,B,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-77.80-m2-novogradnja-oglas-41276431
+05.04.2024.,2150,89,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-89.90-m2-novogradnja-oglas-41276339
+05.04.2024.,2150,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-47.00-m2-novogradnja-oglas-41276118
+05.04.2024.,2150,53,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-53.00-m2-oglas-41275873
+05.04.2024.,2150,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Roh-bau,B,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-47.30-m2-novogradnja-oglas-41276548
+05.04.2024.,159780,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-69.00-m2-novogradnja-centar-oglas-42175438
+05.04.2024.,162750,70,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-70.00-m2-novogradnja-centar-oglas-42175223
+05.04.2024.,159750,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,2023.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-66.00-m2-novogradnja-centar-oglas-41663092
+05.04.2024.,217565,93,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,1.,2023.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-90.00-m2-novogradnja-oglas-41610483
+05.04.2024.,122700,61,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Unknown,2023.,https://www.njuskalo.hr/nekretnine/stan-durdevac-61.00-m2-novogradnja-oglas-40291657
+04.04.2024.,134990,48,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,2-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-48.00-m2-novogradnja-oglas-41707093
+04.04.2024.,175999,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/atraktivan-stan-koprivnica-oglas-43124385
+04.04.2024.,295200,123,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Unknown,2008.,https://www.njuskalo.hr/nekretnine/komforan-stan-zgradi-liftom-garaznim-mjestom-podrumu-oglas-41555271
+04.04.2024.,130000,74,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/top-lokacija-oglas-40227511
+04.04.2024.,109990,41,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,Unknown,https://www.njuskalo.hr/nekretnine/izvrsno-lociran-centar-2-sobni-stan-41-m2-odmah-useljiv-oglas-42520588
+04.04.2024.,162750,70,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-3-sobni-podno-grijanje-oglas-42129090
+04.04.2024.,159900,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-3-sobni-vrtom-oglas-42128974
+04.04.2024.,171800,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,1.,2024.,https://www.njuskalo.hr/nekretnine/pored-stadiona-3-sobni-stan-79.90-m2-oglas-42105195
+04.04.2024.,101000,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/pored-stadiona-stan-2-sobni-47-m2-oglas-42105018
+04.04.2024.,159750,69,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,2024.,https://www.njuskalo.hr/nekretnine/3-sobni-stan-69.44-m2-podno-grijanje-oglas-42092889
+04.04.2024.,217565,93,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,1.,2024.,https://www.njuskalo.hr/nekretnine/93.54-m2-4-sobni-stan-kat-novogradnja-oglas-42092297
+04.04.2024.,134990,51,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/ekskluzivan-stan-cetvrt-pri-sv-magdaleni-oglas-41688373
+04.04.2024.,214990,85,Koprivnièko-križevaèka,Koprivnica,Pri Magdaleni,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/ekskluzivan-stan-novogradnja-pri-sv-magdaleni-oglas-41688667
+04.04.2024.,141450,57,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,2.,Unknown,https://www.njuskalo.hr/nekretnine/3-sobni-stan-57-m2-parkirno-mjesto-oglas-41610069
+04.04.2024.,154990,58,Koprivnièko-križevaèka,Koprivnica,Tarašèice,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,B,1.,Unknown,https://www.njuskalo.hr/nekretnine/3-soban-stan-lift-garaza-parkirno-mjesto-oglas-41047320
+04.04.2024.,145900,73,Koprivnièko-križevaèka,Koprivnica,Tarašèice,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/komforan-4-soban-stan-tarascice-73-m2-oglas-40467739
+04.04.2024.,96900,47,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,B,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/lenisce-2-soban-stan-47-m2-lift-oglas-40126247
+04.04.2024.,249000,90,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,Prizemlje,2023.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-72.00-m2-novogradnja-oglas-32531115
+04.04.2024.,187000,72,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,2.,2023.,https://www.njuskalo.hr/nekretnine/odmah-useljiv-3-sobni-stan-1-kat-71-m2-oglas-39238696
+04.04.2024.,139800,58,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,B,1.,2025.,https://www.njuskalo.hr/nekretnine/stan-centru-58.43-m2-trosobni-novogradnja-139.800-oglas-42483655
+04.04.2024.,149800,62,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,1.,2025.,https://www.njuskalo.hr/nekretnine/stan-centru-62.65-m2-trosobni-novogradnja-149.800-oglas-42484220
+04.04.2024.,173200,72,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,B,2.,2025.,https://www.njuskalo.hr/nekretnine/stan-centru-72.17-m2-cetverosobni-novogradnja-173.200-oglas-42484282
+04.04.2024.,120000,74,Koprivnièko-križevaèka,Koprivnica,Tarašèice,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,3.,1980.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-74.00-m2-oglas-40340846
+03.04.2024.,121158,45,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-s9-lenisce-45.72-m2-novogradnja-oglas-41191532
+03.04.2024.,171589,67,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-s15-lenisce-67.20-m2-novogradnja-oglas-41192278
+03.04.2024.,268950,107,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-s11-lenisce-107.58-m2-novogradnja-oglas-41192024
+03.04.2024.,171800,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/koprivnica-centar-novogradnja-1-kat-79.90-m2-balkon-oglas-43006451
+03.04.2024.,98000,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,1997.,https://www.njuskalo.hr/nekretnine/dvosobni-stan-2-katu-koprivnica-centar-martinovka-oglas-42396258
+03.04.2024.,125000,48,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,A,1.,1962.,https://www.njuskalo.hr/nekretnine/dvosobni-stan-1-katu-koprivnica-tarascice-oglas-42396194
+03.04.2024.,134000,84,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/trosobni-dvoetazni-stan-galerijom-koprivnici-centar-oglas-41921243
+03.04.2024.,130075,60,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,A+,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-centru-koprivnice-novogradnja-60.50-m2-zelena-terasa-47.80m2-oglas-43006146
+03.04.2024.,146000,62,Koprivnièko-križevaèka,Koprivnica,Banovac,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-62.00-m2-oglas-42564273
+03.04.2024.,145000,60,Koprivnièko-križevaèka,Koprivnica,Banovac,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-60.00-m2-oglas-42563754
+03.04.2024.,108000,62,Koprivnièko-križevaèka,Koprivnica,Lenišæe,2-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,C,3.,1995.,https://www.njuskalo.hr/nekretnine/dvosobni-stan-leniscu-koprivnica-3-kat-oglas-40042866
+03.04.2024.,125300,58,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,3.,2024.,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-koprivnica-bana-jelacica-41.60-84.60-m2-oglas-39445234
+03.04.2024.,148620,74,Koprivnièko-križevaèka,Koprivnica,Podolice,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,1.,2004.,https://www.njuskalo.hr/nekretnine/trosobni-stan-koprivnica-odlicna-oglas-39234116
+03.04.2024.,101830,61,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,2021.,https://www.njuskalo.hr/nekretnine/stan-durdevac-61.00-m2-novogradnja-oglas-37220480
+03.04.2024.,115920,70,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,2021.,https://www.njuskalo.hr/nekretnine/stan-durdevac-70.00-m2-novogradnja-oglas-37220500
+03.04.2024.,101740,61,Koprivnièko-križevaèka,Ðurðevac,Ðurðevac,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2021.,https://www.njuskalo.hr/nekretnine/stan-durdevac-61.00-m2-novogradnja-oglas-37220416
+03.04.2024.,120000,77,Koprivnièko-križevaèka,Koprivnica,Banovac,4-sobni,U stambenoj zgradi,Višeetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-77.00-m2-oglas-36751421
+03.04.2024.,115000,119,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U kuæi,Dvoetažni,Unknown,Unknown,Prizemlje,1968.,https://www.njuskalo.hr/nekretnine/stan-kuci-centru-krizevaca-oglas-42783679
+03.04.2024.,94000,33,Koprivnièko-križevaèka,Koprivnica,Lenišæe,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Unknown,2012.,https://www.njuskalo.hr/nekretnine/koprivnica-garsonijera-33.41m2-oglas-43109073
+03.04.2024.,82000,54,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-dvosobni-oglas-40909456
+03.04.2024.,115000,120,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U kuæi,Dvoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-oglas-39918902
+03.04.2024.,55000,49,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U kuæi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-oglas-38102796
+03.04.2024.,130000,150,Koprivnièko-križevaèka,Križevci,Križevci,5+ sobni,U kuæi,Jednoetažni,Potpuno namješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/4-stana-krizevci-150.00-m2-oglas-36743485
+03.04.2024.,60000,62,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U kuæi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-62-m2-oglas-24569704
+02.04.2024.,211825,84,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-s13-lenisce-84.73-m2-novogradnja-oglas-41192132
+02.04.2024.,227000,83,Koprivnièko-križevaèka,Koprivnica,Cerine,4-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,B,1.,2016.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-85-m2-novogradnja-oglas-19964215
+01.04.2024.,70000,36,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,1-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,4.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-36.00-m2-oglas-43311863
+01.04.2024.,108950,43,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,2023.,https://www.njuskalo.hr/nekretnine/a-razred-43.58-m2-prizemlje-vrt-parkirno-mjesto-oglas-41811997
+01.04.2024.,118200,47,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2023.,https://www.njuskalo.hr/nekretnine/1-kat-47-28-m2-novogradnja-a-razred-spremiste-parkirno-mjesto-oglas-41811933
+01.04.2024.,138525,55,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2023.,https://www.njuskalo.hr/nekretnine/energetski-a-razred-novogradnja-55.41-m2-1-kat-parkirno-mjesto-oglas-41811893
+01.04.2024.,176990,70,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/a-razred-stan-vrtom-dizalica-topline-70.41-m2-oglas-41756881
+01.04.2024.,119900,80,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Dvoetažni,Unknown,C,Unknown,1998.,https://www.njuskalo.hr/nekretnine/lenisce-stan-80.13-m2-lift-oglas-38263696
+01.04.2024.,260850,104,Koprivnièko-križevaèka,Koprivnica,Lenišæe,4-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-s14-lenisce-104.34-m2-novogradnja-oglas-41192177
+30.03.2024.,84000,56,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,Unknown,https://www.njuskalo.hr/nekretnine/stan-oglas-43198788
+28.03.2024.,108000,57,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-57.21-m2-koprivnica-oglas-42254620
+27.03.2024.,162125,64,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-64.85-m2-novogradnja-oglas-43075363
+27.03.2024.,169750,67,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-67.90-m2-novogradnja-oglas-43075338
+27.03.2024.,178700,71,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-71.48-m2-novogradnja-oglas-43075313
+27.03.2024.,155975,62,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-62.39-m2-novogradnja-oglas-43075300
+27.03.2024.,162100,64,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-64.84-m2-novogradnja-oglas-43075280
+27.03.2024.,219775,87,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-87.91-m2-novogradnja-oglas-43075264
+27.03.2024.,204275,81,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-81.71-m2-novogradnja-oglas-43075246
+27.03.2024.,217775,87,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-87.11-m2-novogradnja-oglas-43075226
+27.03.2024.,195500,78,Koprivnièko-križevaèka,Križevci,Križevci,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-78.20-m2-novogradnja-oglas-43074713
+27.03.2024.,60000,116,Koprivnièko-križevaèka,Križevci,Karane,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,1.,1920.,https://www.njuskalo.hr/nekretnine/trosobni-stan-katu-centru-krizevaca-116-m-oglas-38372922
+26.03.2024.,167968,65,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/stan-s16-lenisce-65.87-novogradnja-oglas-41192305
+26.03.2024.,23000,58,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,C,Unknown,1918.,https://www.njuskalo.hr/nekretnine/stan-krizevci-ulica-ante-starcevica-2-58.68-m2-oglas-39442204
+26.03.2024.,176000,65,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/florijanski-trg-3-sobni-stan-lift-65-m2-oglas-42748760
+25.03.2024.,233705,108,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071462
+25.03.2024.,129215,60,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-centru-koprivnice-oglas-40071444
+22.03.2024.,127000,48,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,2.,2005.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-48.84-m2-novogradnja-oglas-40263018
+22.03.2024.,107000,77,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-77m2-centar-krizevci-oglas-42210530
+19.03.2024.,197000,84,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,3.,2021.,https://www.njuskalo.hr/nekretnine/elitni-stan-84m2-koprivnica-centar-oglas-39344192
+19.03.2024.,135000,125,Koprivnièko-križevaèka,Koprivnica,Centar,5+ sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-125m2-centar-grada-koprivnica-oglas-39203637
+19.03.2024.,93000,62,Koprivnièko-križevaèka,Koprivnica,Banovac,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-62.00-m2-oglas-37357000
+19.03.2024.,262000,160,Koprivnièko-križevaèka,Koprivnica,Centar,5+ sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-319.00-m2-oglas-37301892
+19.03.2024.,190490,88,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071466
+19.03.2024.,191350,89,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071460
+19.03.2024.,236070,109,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071459
+18.03.2024.,171785,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-centru-koprivnice-oglas-40071463
+18.03.2024.,124055,57,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-centru-koprivnice-oglas-40071445
+18.03.2024.,181890,84,Koprivnièko-križevaèka,Koprivnica,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-centru-koprivnice-oglas-40071438
+18.03.2024.,125345,58,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071452
+18.03.2024.,129860,60,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071450
+15.03.2024.,128570,59,Koprivnièko-križevaèka,Koprivnica,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/predivna-novogradnja-centru-koprivnce-oglas-40071469
+06.03.2024.,179000,82,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U stambenoj zgradi,Dvoetažni,Potpuno namješten,A,1.,1977.,https://www.njuskalo.hr/nekretnine/stan-krizevci-82.00-m2-prodaja-oglas-43006809
+01.03.2024.,120000,61,Koprivnièko-križevaèka,Koprivnica,Dubovec,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/3-soban-stan-koprivnica-trg-kralja-zvonimira-oglas-41634712
+27.02.2024.,116800,73,Koprivnièko-križevaèka,Koprivnica,Banovac,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,C,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-koprivnica-73.00-m2-novogradnja-oglas-42988445
+26.02.2024.,116000,62,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,2.,1962.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-62.00-m2-oglas-41680410
+21.02.2024.,120000,58,Koprivnièko-križevaèka,Koprivnica,Tarašèice,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,Unknown,1978.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-58.00-m2-oglas-42943781
+15.02.2024.,175999,79,Koprivnièko-križevaèka,Koprivnica,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,D,3.,1986.,https://www.njuskalo.hr/nekretnine/prekrasan-3-soban-stan-79.16-m2-spremiste-garaza-centar-oglas-42393328
+29.01.2024.,87500,50,Koprivnièko-križevaèka,Križevci,Križevci,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,2024.,https://www.njuskalo.hr/nekretnine/stan-krizevci-45.00-m2-novogradnja-oglas-40181092
+29.01.2024.,150000,75,Koprivnièko-križevaèka,Križevci,Križevci,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,A+,Unknown,2023.,https://www.njuskalo.hr/nekretnine/stan-krizevci-52.00-m2-novogradnja-oglas-38962820
+13.01.2024.,159500,63,Koprivnièko-križevaèka,Koprivnica,Dubovec,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,B,1.,2023.,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubovec-63.54m2-oglas-42511469
+10.01.2024.,109500,48,Koprivnièko-križevaèka,Koprivnica - Okolica,Herešin,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,A,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-heresin-73.50-m2-novogradnja-oglas-42487388
+04.07.2023.,135000,97,Koprivnièko-križevaèka,Koprivnica,Cinderišèe,3-sobni,U kuæi,Dvoetažni,Potpuno namješten,Unknown,Prizemlje,2002.,https://www.njuskalo.hr/nekretnine/stan-prodaja-cinderisce-97.35m2-oglas-40881283
+21.04.2023.,100000,103,Koprivnièko-križevaèka,Križevci,Križevci,4-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,E,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-krizevci-103.00-m2-oglas-40287989
+13.03.2023.,208250,119,Koprivnièko-križevaèka,Koprivnica,Lenišæe,5+ sobni,U kuæi,Jednoetažni,Unknown,A+,1.,2022.,https://www.njuskalo.hr/nekretnine/stan-koprivnica-119.00-m2-novogradnja-oglas-39954415
+21.12.2022.,135000,78,Koprivnièko-križevaèka,Koprivnica,Lenišæe,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko potkrovlje,1998.,https://www.njuskalo.hr/nekretnine/stan-prodaja-centar-57.45m2-oglas-39261799
+16.02.2022.,28000,59,Koprivnièko-križevaèka,Gola,Gola,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,1981.,https://www.njuskalo.hr/nekretnine/stan-prodaja-banovac-58.3m2-oglas-36739067

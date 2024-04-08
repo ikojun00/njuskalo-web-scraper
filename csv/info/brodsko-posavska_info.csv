@@ -1,117 +1,128 @@
-Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors
-1600,69,Brodsko-posavska,Slavonski Brod,Šestinac,3-sobni,U stambenoj zgradi,Jednoetažni
-44500,28,Brodsko-posavska,Slavonski Brod,Kolonija,2-sobni,U stambenoj zgradi,Jednoetažni
-130000,76,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni
-93000,60,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni
-125000,120,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-196329,93,Brodsko-posavska,Slavonski Brod,Naselje Huge Badaliæa,4-sobni,U stambenoj zgradi,Jednoetažni
-140000,77,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni
-85000,62,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni
-147000,94,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-102125,53,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,1-sobni,U stambenoj zgradi,Jednoetažni
-189486,86,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-282200,112,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-110000,72,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni
-141702,76,Brodsko-posavska,Slavonski Brod,Kolonija,3-sobni,U stambenoj zgradi,Jednoetažni
-115604,62,Brodsko-posavska,Slavonski Brod,Kolonija,3-sobni,U stambenoj zgradi,Jednoetažni
-99000,80,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-128117,67,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni
-135660,71,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni
-109915,57,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni
-91875,48,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,2-sobni,U stambenoj zgradi,Jednoetažni
-116445,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-130416,59,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-144650,65,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-120120,54,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-143000,65,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-160000,129,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-126280,57,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-255200,102,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-261800,119,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-125000,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-97000,62,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni
-87000,47,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni
-57000,30,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni
-87000,47,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni
-64500,34,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni
-87000,47,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni
-70000,37,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni
-64500,34,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni
-57200,30,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni
-64500,34,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni
-57200,30,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni
-110000,66,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-105000,78,Brodsko-posavska,Slavonski Brod,Brodsko Vinogorje,3-sobni,U stambenoj zgradi,Jednoetažni
-80000,68,Brodsko-posavska,Slavonski Brod,Plavo Polje,3-sobni,U stambenoj zgradi,Jednoetažni
-138080,69,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-153515,76,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-139380,69,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-130710,65,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-140465,70,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-130715,65,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-107430,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-107590,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-107850,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-107420,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-107420,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-155000,118,Brodsko-posavska,Slavonski Brod,Marsonija,4-sobni,U stambenoj zgradi,Jednoetažni
-83000,67,Brodsko-posavska,Slavonski Brod,Slavonija 1,2-sobni,U stambenoj zgradi,Jednoetažni
-2000,52,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2000,52,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2000,70,Brodsko-posavska,Slavonski Brod,Marsonija,3-sobni,U stambenoj zgradi,Jednoetažni
-2000,63,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2000,55,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2000,55,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2200,41,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2100,55,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-2100,75,Brodsko-posavska,Slavonski Brod,Marsonija,3-sobni,U stambenoj zgradi,Jednoetažni
-132000,70,Brodsko-posavska,Slavonski Brod,Plavo Polje,3-sobni,U stambenoj zgradi,Jednoetažni
-120000,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-140000,66,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-125000,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-140000,96,Brodsko-posavska,Nova Gradiška,Nova Gradiška,3-sobni,U stambenoj zgradi,Jednoetažni
-92000,75,Brodsko-posavska,Slavonski Brod,Jelas,3-sobni,U stambenoj zgradi,Jednoetažni
-165000,68,Brodsko-posavska,Rešetari,Rešetari,3-sobni,U stambenoj zgradi,Jednoetažni
-103840,47,Brodsko-posavska,Slavonski Brod,Centar,Garsonijera,U stambenoj zgradi,Jednoetažni
-143000,65,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-124124,56,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-164516,74,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-136906,62,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-120120,54,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-467250,186,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-184000,120,Brodsko-posavska,Rešetari,Rešetari,3-sobni,U stambenoj zgradi,Jednoetažni
-134999,76,Brodsko-posavska,Slavonski Brod,Mali Pariz,3-sobni,U stambenoj zgradi,Jednoetažni
-109900,62,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni
-95000,69,Brodsko-posavska,Slavonski Brod,Mikrorajon,3-sobni,U stambenoj zgradi,Jednoetažni
-52000,68,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni
-179095,99,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni
-198415,93,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni
-110000,62,Brodsko-posavska,Slavonski Brod,Slavonija 1,2-sobni,U stambenoj zgradi,Jednoetažni
-125400,66,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni
-209220,95,Brodsko-posavska,Slavonski Brod,Naselje Kralja Tomislava,4-sobni,U stambenoj zgradi,Višeetažni
-107000,81,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,3-sobni,U stambenoj zgradi,Jednoetažni
-110000,62,Brodsko-posavska,Slavonski Brod,Slavonija 1,2-sobni,U stambenoj zgradi,Jednoetažni
-169000,111,Brodsko-posavska,Slavonski Brod,Mali Pariz,4-sobni,U stambenoj zgradi,Jednoetažni
-149000,89,Brodsko-posavska,Slavonski Brod,Mali Pariz,3-sobni,U stambenoj zgradi,Jednoetažni
-179095,102,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni
-110000,67,Brodsko-posavska,Slavonski Brod,Slavonija 2,2-sobni,U stambenoj zgradi,Jednoetažni
-198415,113,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni
-70000,62,Brodsko-posavska,Slavonski Brod,Naselje Kralja Tomislava,2-sobni,U stambenoj zgradi,Jednoetažni
-1,41,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-1,52,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni
-156200,78,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-79850,50,Brodsko-posavska,Slavonski Brod,Slavonija 2,3-sobni,U stambenoj zgradi,Dvoetažni
-105000,105,Brodsko-posavska,Nova Gradiška,Nova Gradiška,4-sobni,U stambenoj zgradi,Jednoetažni
-1,80,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni
-280000,127,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni
-166800,139,Brodsko-posavska,Nova Gradiška,Nova Gradiška,4-sobni,U stambenoj zgradi,Jednoetažni
-76000,62,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni
-120000,99,Brodsko-posavska,Slavonski Brod,Naselje Kralja Tomislava,3-sobni,U stambenoj zgradi,Jednoetažni
-125000,69,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni
-99000,95,Brodsko-posavska,Nova Gradiška,Nova Gradiška,3-sobni,U stambenoj zgradi,Jednoetažni
-110000,71,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,3-sobni,U stambenoj zgradi,Jednoetažni
-121000,67,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni
-104500,76,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,2-sobni,U stambenoj zgradi,Jednoetažni
-185000,122,Brodsko-posavska,Slavonski Brod,Kolonija,4-sobni,U kuæi,Dvoetažni
-105000,92,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U kuæi,Jednoetažni
-83000,55,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni
+Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Number of floors,Furnishing,Energy class,Floor,Year of construction,Url
+07.04.2024.,135000,61,Brodsko-posavska,Slavonski Brod,Mikrorajon,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,B,Prizemlje,2018.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-62.7-m-potpuno-namjesten-oglas-43326338
+06.04.2024.,93000,60,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-60.43-m2-oglas-40752928
+06.04.2024.,196329,93,Brodsko-posavska,Slavonski Brod,Naselje Huge Badaliæa,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Visoko prizemlje,2024.,https://www.njuskalo.hr/nekretnine/horvatova-trosoban-stan-75.22m2-ii-kat-novogradnja-prodaja-oglas-41065507
+06.04.2024.,108800,68,Brodsko-posavska,Slavonski Brod,Šestinac,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,Visoko prizemlje,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-oglas-43325684
+05.04.2024.,39400,25,Brodsko-posavska,Slavonski Brod,Mikrorajon,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,1980.,https://www.njuskalo.hr/nekretnine/top-cijena-oglas-42999075
+05.04.2024.,147000,94,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,1995.,https://www.njuskalo.hr/nekretnine/p-kresimira-iv-centar-3sobni-stan-94-m2-ii-kat-odv-rezije-oglas-41586298
+04.04.2024.,90000,122,Brodsko-posavska,Slavonski Brod,Kolonija,4-sobni,U stambenoj zgradi,Dvoetažni,Djelomièno namješten,A+,Unknown,2023.,https://www.njuskalo.hr/nekretnine/ekskluzivna-prodaja-novogradnja-dvoetazni-stanovi-kuce-oglas-39040674
+04.04.2024.,220000,110,Brodsko-posavska,Slavonski Brod,Plavo Polje,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,4.,2024.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-69.00-m2-novogradnja-oglas-41402510
+04.04.2024.,140800,64,Brodsko-posavska,Slavonski Brod,Livada,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/najava-projekta-green-meadow-oglas-43264915
+04.04.2024.,116600,53,Brodsko-posavska,Slavonski Brod,Livada,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/stambeno-naselje-green-meadow-dvosobni-stan-53-m2-1-2-kat-novogra-oglas-43256094
+04.04.2024.,130200,62,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/najava-projekta-green-meadow-trosobni-stan-62-m2-1-2-kat-novogradn-oglas-43256092
+04.04.2024.,128117,67,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/nas-z-frankopan-3sobni-stan-64-m2-pm-kat-oglas-42277506
+04.04.2024.,135660,71,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/nas-z-frankopan-3sobni-stan-68.28-pm-m2-prizemlje-oglas-41994434
+04.04.2024.,109915,57,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/nas-z-frankopan-3sobni-stan-54.57m2-pm-kat-oglas-41994433
+04.04.2024.,116445,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/m-gupca-najava-projekta-novogradnja-stanovi-raznih-povrsina-55-1-oglas-41911527
+04.04.2024.,255200,102,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-penthouse-84.35-m2-oglas-41803275
+04.04.2024.,103950,49,Brodsko-posavska,Slavonski Brod,Centar,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-2sobni-stan-49-m2-iii-kat-lift-novogradnja-oglas-43281442
+04.04.2024.,116600,53,Brodsko-posavska,Slavonski Brod,Livada,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/najava-projekta-green-meadow-dvosobni-stan-53-m2-1-2-kat-novogradn-oglas-43264917
+04.04.2024.,134200,61,Brodsko-posavska,Slavonski Brod,Livada,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/najava-projekta-green-meadow-dvosobni-stan-61-m2-vrt-32-m2-novogra-oglas-43264916
+04.04.2024.,193200,92,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/najava-projekta-green-meadow-4-sobni-stan-92-m2-prizemlje-vrtom-1-oglas-43256091
+04.04.2024.,85000,62,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/nas-a-hebranga-dvosobni-stan-63-m2-iii-kat-centralno-klima-oglas-41702715
+04.04.2024.,110000,72,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,1980.,https://www.njuskalo.hr/nekretnine/nas-a-hebranga-trosobni-stan-72-m2-iii-kat-razdjelnici-oglas-40198380
+04.04.2024.,160000,129,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/centar-petra-kresimira-iv-trosoban-stan-129-m2-kat-tavan-garaza-oglas-39660486
+04.04.2024.,99000,80,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/m-gupca-trosobni-stan-80-m2-kat-centr-plin-parking-oglas-37196683
+04.04.2024.,189486,86,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-trosoban-stan-77.50-m2-oglas-41803301
+04.04.2024.,124124,56,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-52.60-m2-oglas-41803303
+04.04.2024.,164516,74,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-70.05-m2-oglas-41803302
+04.04.2024.,103840,47,Brodsko-posavska,Slavonski Brod,Centar,Garsonijera,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-garsonjera-47.20-m2-oglas-41803292
+04.04.2024.,282200,112,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-penthouse-94.75-m2-oglas-41803276
+04.04.2024.,141702,76,Brodsko-posavska,Slavonski Brod,Kolonija,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/kolonija-novogradnja-trosoban-stan-66-m2-prizemlje-vrt-oglas-41410080
+04.04.2024.,115604,62,Brodsko-posavska,Slavonski Brod,Kolonija,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/kolonija-novogradnja-trosoban-stan-61-m2-kat-oglas-41410079
+02.04.2024.,79000,54,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,Prizemlje,1980.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-54.59-m2-oglas-43314944
+02.04.2024.,122000,66,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-66.54m2-oglas-43224378
+02.04.2024.,87000,47,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-3-prizemlje-oglas-43056700
+02.04.2024.,57000,30,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-1-prizemlje-oglas-42962698
+02.04.2024.,87000,47,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-11-drugi-kat-oglas-42962697
+02.04.2024.,64500,34,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-12-drugi-kat-oglas-42962696
+02.04.2024.,87000,47,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-a6-prvi-kat-oglas-42236756
+02.04.2024.,64500,34,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-a3-prizemlje-oglas-42236758
+02.04.2024.,57200,30,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-a8-drugi-kat-oglas-42236754
+02.04.2024.,64500,34,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-68.34m2-oglas-42236755
+02.04.2024.,57200,30,Brodsko-posavska,Slavonski Brod,Naselje Matije Ivaniæa,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/osjecka-ulica-novogradnja-stan-a4-prvi-kat-oglas-42236759
+02.04.2024.,110000,66,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-66.48m2-oglas-42935930
+02.04.2024.,105000,78,Brodsko-posavska,Slavonski Brod,Brodsko Vinogorje,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-brodsko-vinogorje-78.32m2-oglas-42888433
+02.04.2024.,75000,68,Brodsko-posavska,Slavonski Brod,Plavo Polje,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1948.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-68.36m2-oglas-42474047
+02.04.2024.,138080,69,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,3.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-a-stan-a8-oglas-41586348
+02.04.2024.,153515,76,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,3.,2024.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-76.7575m2-oglas-41586345
+02.04.2024.,139380,69,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-a-stan-a6-oglas-41586350
+02.04.2024.,130710,65,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-b-stan-b5-oglas-41616014
+02.04.2024.,140465,70,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-c-stan-c3-oglas-41623989
+02.04.2024.,130715,65,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-c-stan-c5-oglas-41623987
+02.04.2024.,107430,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,3.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-a-stan-a9-oglas-41586346
+02.04.2024.,107590,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-a-stan-a3-oglas-41586353
+02.04.2024.,107850,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-b-stan-b4-oglas-41616015
+02.04.2024.,107420,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,3.,2024.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-53.71m2-oglas-41623983
+02.04.2024.,107420,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/naselje-stross-diletacija-c-stan-c7-oglas-41623985
+02.04.2024.,155000,118,Brodsko-posavska,Slavonski Brod,Marsonija,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,2010.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-88.03m2-oglas-25201677
+02.04.2024.,83000,67,Brodsko-posavska,Slavonski Brod,Slavonija 1,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,4.,1982.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-67.29m2-oglas-40881429
+02.04.2024.,134999,76,Brodsko-posavska,Slavonski Brod,Mali Pariz,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko potkrovlje,Unknown,https://www.njuskalo.hr/nekretnine/trosoban-stan-novogradnji-slavonski-brod-oglas-41356664
+02.04.2024.,91875,48,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/nas-z-frankopan-dvosobni-stan-45-m2-kat-oglas-41986222
+02.04.2024.,130416,59,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-53.45-m2-oglas-41803294
+02.04.2024.,144650,65,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-65.75-m2-oglas-41803289
+02.04.2024.,261800,119,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-4-soban-stan-99.90-m2-oglas-41803300
+02.04.2024.,136906,62,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-57.80-m2-oglas-41803298
+02.04.2024.,143000,65,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-60-m2-oglas-41803288
+02.04.2024.,120120,54,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-54.60-m2-oglas-41803280
+02.04.2024.,120120,54,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-54.60-m2-oglas-41803284
+02.04.2024.,126280,57,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-57.40-m2-oglas-41803283
+02.04.2024.,143000,65,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-dvosoban-stan-60-m2-oglas-41803278
+02.04.2024.,467250,186,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/j-j-strossmayera-luksuzna-novogradnja-penthouse-165.10-m2-oglas-41803277
+02.04.2024.,102125,53,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,1-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/nas-z-frankopan-3-sobni-stan-66.48m2-ii-kat-novogradnja-oglas-41431216
+02.04.2024.,184000,120,Brodsko-posavska,Rešetari,Rešetari,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/ureden-namjesten-stan-dvoriste-oglas-41747239
+29.03.2024.,135000,67,Brodsko-posavska,Slavonski Brod,Lutvinka,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,2.,1974.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-67.72-m2-naselje-lutvinka-oglas-43292139
+28.03.2024.,130000,76,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,A+,2.,2019.,https://www.njuskalo.hr/nekretnine/stan-prodaja-slavonski-brod-76.93m2-oglas-43100250
+26.03.2024.,89000,54,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-gradiska-54.00-m2-oglas-43266370
+26.03.2024.,79000,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,1980.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-55.00-m2-oglas-43264739
+25.03.2024.,44500,28,Brodsko-posavska,Slavonski Brod,Kolonija,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-28.00-m2-oglas-43176030
+23.03.2024.,92000,75,Brodsko-posavska,Slavonski Brod,Jelas,3-sobni,U stambenoj zgradi,Jednoetažni,Djelomièno namješten,Unknown,3.,1980.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-75.70-m2-oglas-42203735
+15.03.2024.,125000,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-55.00-m2-oglas-43170286
+14.03.2024.,97000,62,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,1.,1976.,https://www.njuskalo.hr/nekretnine/stan-gradiska-62.00-m2-oglas-43166059
+13.03.2024.,2000,52,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-52.88-m2-novogradnja-oglas-41079538
+13.03.2024.,2000,52,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-52.00-m2-novogradnja-oglas-41079513
+13.03.2024.,2000,70,Brodsko-posavska,Slavonski Brod,Marsonija,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-70.00-m2-novogradnja-oglas-41079494
+13.03.2024.,2000,63,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-63.00-m2-novogradnja-oglas-41079461
+13.03.2024.,2000,55,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-55.25-m2-novogradnja-oglas-41079037
+13.03.2024.,2000,55,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-55.00-m2-oglas-41079016
+13.03.2024.,2200,41,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-41.00-m2-oglas-41078913
+13.03.2024.,2100,55,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-55.00-m2-oglas-41078896
+13.03.2024.,2100,75,Brodsko-posavska,Slavonski Brod,Marsonija,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-75.00-m2-novogradnja-oglas-41078837
+12.03.2024.,120000,53,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,6.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-53.33-m2-novogradnja-oglas-43146339
+12.03.2024.,140000,66,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-66.84-m2-oglas-43145900
+12.03.2024.,125000,55,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-55.00-m2-oglas-43145301
+11.03.2024.,140000,96,Brodsko-posavska,Nova Gradiška,Nova Gradiška,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,A,1.,2020.,https://www.njuskalo.hr/nekretnine/stan-gradiska-96.54-m2-novogradnja-oglas-40782239
+08.03.2024.,165000,68,Brodsko-posavska,Rešetari,Rešetari,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/resetari-2s-db-68.56m2-165.000-oglas-43108877
+12.02.2024.,109900,62,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-62.00-m2-oglas-41293195
+01.02.2024.,90000,69,Brodsko-posavska,Slavonski Brod,Mikrorajon,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,4.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-69.00-m2-oglas-42755407
+01.02.2024.,52000,68,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-gradiska-68.00-m2-oglas-42754645
+28.01.2024.,179095,99,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2022.,https://www.njuskalo.hr/nekretnine/prodaje-se-stan-1-kat-99.21-m2-vida-dosena-nas-livada-oglas-42030424
+28.01.2024.,198415,93,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,Prizemlje,2022.,https://www.njuskalo.hr/nekretnine/prodaje-se-stan-93.96-m2-nas-livada-ul-vida-dosena-oglas-42029690
+26.01.2024.,110000,62,Brodsko-posavska,Slavonski Brod,Slavonija 1,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,4.,1977.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-62.50-m2-oglas-42697491
+26.01.2024.,125400,66,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A+,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-50.00-m2-novogradnja-oglas-42632094
+25.01.2024.,209220,95,Brodsko-posavska,Slavonski Brod,Naselje Kralja Tomislava,4-sobni,U stambenoj zgradi,Višeetažni,Nenamješten,A,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-95.00-m2-novogradnja-oglas-42651878
+23.01.2024.,107000,81,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,3.,1980.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-81.00-m2-oglas-42631452
+16.01.2024.,110000,62,Brodsko-posavska,Slavonski Brod,Slavonija 1,2-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,4.,1977.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-62.50-m2-prodaja-oglas-42552887
+16.01.2024.,169000,111,Brodsko-posavska,Slavonski Brod,Mali Pariz,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-111.00-m2-novogradnja-oglas-42550013
+16.01.2024.,149000,89,Brodsko-posavska,Slavonski Brod,Mali Pariz,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-89.00-m2-novogradnja-oglas-42549976
+11.01.2024.,179095,102,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-102.00-m2-novogradnja-oglas-42492599
+11.01.2024.,110000,67,Brodsko-posavska,Slavonski Brod,Slavonija 2,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-67.00-m2-oglas-42492287
+08.01.2024.,198415,113,Brodsko-posavska,Slavonski Brod,Livada,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-113.00-m2-novogradnja-oglas-42470660
+07.01.2024.,70000,62,Brodsko-posavska,Slavonski Brod,Naselje Kralja Tomislava,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,4.,1988.,https://www.njuskalo.hr/nekretnine/stan-nas-kralja-tomislava-65.00-m2-oglas-41748683
+27.11.2023.,1,41,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-41.00-m2-novogradnja-oglas-41079439
+24.11.2023.,1,52,Brodsko-posavska,Slavonski Brod,Marsonija,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-52.96-m2-novogradnja-oglas-41075604
+22.11.2023.,164010,78,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,A,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-78.10-m2-novogradnja-oglas-42086493
+21.11.2023.,79850,50,Brodsko-posavska,Slavonski Brod,Slavonija 2,3-sobni,U stambenoj zgradi,Dvoetažni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-50.00-m2-oglas-41137689
+13.11.2023.,105000,105,Brodsko-posavska,Nova Gradiška,Nova Gradiška,4-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-gradiska-105.00-m2-oglas-41983668
+02.11.2023.,1,80,Brodsko-posavska,Slavonski Brod,Livada,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/novogradnja-vise-stanova-stan-slavonski-brod-60-80-m2-oglas-41805733
+03.10.2023.,280000,127,Brodsko-posavska,Slavonski Brod,Centar,4-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-127.00-m2-novogradnja-oglas-41564619
+01.10.2023.,166800,139,Brodsko-posavska,Nova Gradiška,Nova Gradiška,4-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,B,1.,2012.,https://www.njuskalo.hr/nekretnine/stan-gradiska-139.00-m2-novogradnja-oglas-35049299
+16.07.2023.,120000,99,Brodsko-posavska,Slavonski Brod,Naselje Kralja Tomislava,3-sobni,U stambenoj zgradi,Jednoetažni,Potpuno namješten,C,1.,1960.,https://www.njuskalo.hr/nekretnine/stan-sl-brod-99.00-m2-stan-59-m2-ostava-5-m2-tavan-35-m2-garaza-oglas-40967753
+03.07.2023.,125000,69,Brodsko-posavska,Slavonski Brod,Centar,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,1970.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-69.50-m2-oglas-26066799
+08.06.2023.,99000,95,Brodsko-posavska,Nova Gradiška,Nova Gradiška,3-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,A,1.,1968.,https://www.njuskalo.hr/nekretnine/stan-gradiska-95.00-m2-trosobni-oglas-40642697
+15.03.2023.,110000,71,Brodsko-posavska,Slavonski Brod,Naselje Andrije Hebranga,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,3.,1985.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-71.00-m2-oglas-29531157
+14.03.2023.,121000,67,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,3-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-67.00-m2-oglas-39965121
+02.03.2023.,104500,76,Brodsko-posavska,Slavonski Brod,Naselje Zrinski-Frankopana,2-sobni,U stambenoj zgradi,Jednoetažni,Nenamješten,Unknown,1.,2022.,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-76.00-m2-novogradnja-oglas-39862369
+14.12.2022.,185000,122,Brodsko-posavska,Slavonski Brod,Kolonija,4-sobni,U kuæi,Dvoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-122.00-m2-oglas-39218660
+20.09.2022.,105000,92,Brodsko-posavska,Slavonski Brod,Centar,2-sobni,U kuæi,Jednoetažni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-slavonski-brod-92.00-m2-oglas-38538107
+26.06.2021.,83000,55,Brodsko-posavska,Nova Gradiška,Nova Gradiška,2-sobni,U stambenoj zgradi,Jednoetažni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-gradiska-55.00-m2-oglas-34893513
