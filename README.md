@@ -8,7 +8,7 @@ A web scraper designed to extract apartment listings from Njuškalo along with t
 
 Follow these steps to utilize the scraper effectively:
 
-# "Scraping County Listings for the First Time".
+# Scraping County Listings for the First Time
 
 1. **Clone Repository**: Start by cloning this repository to your local machine using Git.
 
