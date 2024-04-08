@@ -1,10 +1,8 @@
 # Njuškalo Web Scraper
 
-
 ## Introduction
 
 A web scraper designed to extract apartment listings from Njuškalo along with their details for further analysis or usage.
-
 
 ## How to Use
 
@@ -50,7 +48,7 @@ Follow these steps to utilize the scraper effectively:
     ```bash
     python scripts/diff.py
     ```
-
+    
 3. **Run Apartment Info Script**: After collecting the new apartment links (`new.csv`), proceed to run the `apartment_info.py` script to extract detailed information about each apartment.
 
     ```bash
@@ -58,7 +56,6 @@ Follow these steps to utilize the scraper effectively:
     ```
 
 4. **Access Results**: Once the script have completed execution, you will find `apartment_info.csv` containing detailed information. Append rows from `apartment_info.csv` into old file located in the `/csv/info/` directory of county that you wanted to scraped.
-
 
 ## Disclaimer
 
