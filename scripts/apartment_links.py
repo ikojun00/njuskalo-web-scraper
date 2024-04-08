@@ -4,7 +4,7 @@ import requests
 from fake_useragent import UserAgent
 
 ua = UserAgent()
-county = "splitsko-dalmatinska"
+county = "buje"
 
 headers = {
   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -30,13 +30,12 @@ with requests.Session() as session:
     counter = 0
     while True:
         soup = BeautifulSoup(response.text, 'html.parser')
-        # Listings in Vau Vau section are also in the regular section, this line creates unnecessery duplicates
-        # apartments = soup.select("li.EntityList-item.EntityList-item--VauVau.bp-radix__faux-anchor") + soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
-        apartments = soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
+        apartments = soup.select("li.EntityList-item.EntityList-item--VauVau.bp-radix__faux-anchor") + soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
         
         for apartment in apartments:
             link = f"https://www.njuskalo.hr{apartment['data-href']}"
-            apartment_links.append(link)
+            if link not in apartment_links:
+                apartment_links.append(link)
         
         try:
             next_page = soup.select_one("li.Pagination-item.Pagination-item--next > button")['data-page']
@@ -48,8 +47,7 @@ with requests.Session() as session:
 
         response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}?page={next_page}", headers=headers)
 
-    # Write apartment links to a CSV file
-    with open('apartment_links.csv', 'w', newline='') as file:
+    with open('buje.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         for link in apartment_links:
             writer.writerow([link])

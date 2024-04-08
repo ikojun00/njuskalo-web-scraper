@@ -24,18 +24,20 @@ def delete_rows(csv_file):
 
 
 if __name__ == "__main__":
+    county = "osjecko-baranjska"
     sold_urls = []
 
-    with open('sold.csv', 'r', newline='') as file:
-        reader = csv.reader(file)
-        for row in reader:
-            sold_urls.extend(row)
-
     new_links = 'apartment_links.csv'
-    old_links = 'csv/links/splitsko-dalmatinska_links.csv'
+    old_links = f'csv/links/{county}_links.csv'
 
     diff_df1, diff_df2 = compare_csv(new_links, old_links)
 
     diff_df1.to_csv('new.csv', index=False)
     diff_df2.to_csv('sold.csv', index=False)
-    delete_rows('csv/info/splitsko-dalmatinska_info.csv')
+
+    with open('sold.csv', 'r', newline='') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            sold_urls.extend(row)
+            
+    delete_rows(f'csv/info/{county}_info.csv')
