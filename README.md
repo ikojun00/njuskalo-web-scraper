@@ -8,7 +8,7 @@ A web scraper designed to extract apartment listings from Njuškalo along with t
 
 Follow these steps to utilize the scraper effectively:
 
-# Scraping County Listings for the First Time
+### Scraping County Listings for the First Time
 
 1. **Clone Repository**: Start by cloning this repository to your local machine using Git.
 
@@ -39,7 +39,7 @@ Follow these steps to utilize the scraper effectively:
 
 6. **Access Results**: Once the scripts have completed execution, you will find two new files generated: `apartment_links.csv` containing the links and `apartment_info.csv` containing detailed information. You can rename these files according to the county you specified.
 
-# Scraping County Listings That Have Already Been Scraped Before
+### Scraping County Listings That Have Already Been Scraped Before
 
 1. - 4. **Repetition**: Follow steps first four steps from "Scraping County Listings for the First Time".
 
