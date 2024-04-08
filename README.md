@@ -41,20 +41,20 @@ Follow these steps to utilize the scraper effectively:
 
 ### Scraping County Listings That Have Already Been Scraped Before
 
-1. - 4. **Repetition**: Follow steps first four steps from "Scraping County Listings for the First Time".
+1. **Repetition**: Follow steps first four steps from "Scraping County Listings for the First Time".
 
-5. **Run Apartment Diff Script**: After collecting the apartment links, proceed to run the `diff.py` script to remove invalid links from county located in the `/csv/links/` directory. Once the script have completed execution, you will find two new files generated: `new.csv` containing new links and `sold.csv` containing invalid links.
+2. **Run Apartment Diff Script**: After collecting the apartment links, proceed to run the `diff.py` script to remove invalid links from county located in the `/csv/links/` directory. Once the script have completed execution, you will find two new files generated: `new.csv` containing new links and `sold.csv` containing invalid links.
 
     ```bash
     python scripts/diff.py
     ```
-6. **Run Apartment Info Script**: After collecting the new apartment links (`new.csv`), proceed to run the `apartment_info.py` script to extract detailed information about each apartment.
+3. **Run Apartment Info Script**: After collecting the new apartment links (`new.csv`), proceed to run the `apartment_info.py` script to extract detailed information about each apartment.
 
     ```bash
     python scripts/apartment_info.py
     ```
 
-7. **Access Results**: Once the script have completed execution, you will find `apartment_info.csv` containing detailed information. Append rows from `apartment_info.csv` into old file located in the `/csv/info/` directory of county that you wanted to scraped.
+4. **Access Results**: Once the script have completed execution, you will find `apartment_info.csv` containing detailed information. Append rows from `apartment_info.csv` into old file located in the `/csv/info/` directory of county that you wanted to scraped.
 
 ## Disclaimer
 
