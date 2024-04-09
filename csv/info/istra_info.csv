@@ -125,7 +125,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 06.04.2024.,195000,75,Istarska,Labin,Labin,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2022.,https://www.njuskalo.hr/nekretnine/istra-labin-stan-novogradnja-vrtom-oglas-37258085
 06.04.2024.,74000,56,Istarska,Kr�an,Polje �epi�,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-cepic-stan-prizemlju-oglas-35980598
 06.04.2024.,230000,67,Istarska,Umag,Zambratija,3-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,A+,1.,2023.,https://www.njuskalo.hr/nekretnine/apartman-zambratiji-umag-blizina-plaze-pogled-more-oglas-40955613
-06.04.2024.,"346747,50",84,Istarska,Umag,Finida,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-trosoban-stan-stan-4-84m2-oglas-42894090
+06.04.2024.,346747,84,Istarska,Umag,Finida,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-trosoban-stan-stan-4-84m2-oglas-42894090
 06.04.2024.,679418,84,Istarska,Umag,Savudrija,2-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,Unknown,Unknown,2023.,https://www.njuskalo.hr/nekretnine/petram-resort-residences-apartmani-oglas-43282980
 06.04.2024.,532553,80,Istarska,Umag,Savudrija,2-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,Unknown,Unknown,2023.,https://www.njuskalo.hr/nekretnine/petram-resort-residences-stanovi-oglas-43282912
 06.04.2024.,440000,110,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,2023.,https://www.njuskalo.hr/nekretnine/porec-stan-novogradnji-1-kat-pogled-more-oglas-41059584
@@ -1480,7 +1480,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 04.04.2024.,159000,50,Istarska,Medulin,Medulin,2-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,Unknown,Prizemlje,2006.,https://www.njuskalo.hr/nekretnine/medulin-stan-50-m2-par-mjesto-oglas-42920946
 04.04.2024.,165000,65,Istarska,Pula,�ijana,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,1980.,https://www.njuskalo.hr/nekretnine/pula-koparska-ul-renovirani-stan-cca-65-3-m2-pm-oglas-42449804
 04.04.2024.,260000,70,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/porec-dvoetazni-stan-2-katu-zgrade-1-km-mora-oglas-41034138
-04.04.2024.,"182535,59",44,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-2-katu-liftom-1-km-mora-c2-oglas-40132819
+04.04.2024.,182535,44,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-2-katu-liftom-1-km-mora-c2-oglas-40132819
 04.04.2024.,258000,94,Istarska,Umag,Umag,4-sobni,U stambenoj zgradi,Dvoeta�ni,Unknown,B,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/umag-prodaja-stana-nadomak-samog-centra-grada-oglas-43335025
 04.04.2024.,428000,120,Istarska,Pore�,�bandaj,3-sobni,U stambenoj zgradi,Dvoeta�ni,Unknown,Unknown,Unknown,2024.,https://www.njuskalo.hr/nekretnine/porec-okolica-troetazni-stan-novogradnji-okucnicom-oglas-43335024
 04.04.2024.,236000,65,Istarska,Pore�,�bandaj,3-sobni,U stambenoj zgradi,Dvoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/porec-okolica-dvoetazni-stan-novogradnji-okolicom-oglas-43335023
@@ -2280,8 +2280,8 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 03.04.2024.,247000,61,Istarska,Pula,�ijana,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,2008.,https://www.njuskalo.hr/nekretnine/visoko-kvalitetni-novouredeni-obiteljski-stan-mirnoj-lokaciji-oglas-43320247
 03.04.2024.,183000,40,Istarska,Medulin,Pje��ana Uvala,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/istra-medulin-pjescana-uvala-40.66m2-1s-db-100m-mora-oglas-43320217
 03.04.2024.,239000,67,Istarska,Novigrad,Novigrad,3-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,Unknown,Visoko prizemlje,2010.,https://www.njuskalo.hr/nekretnine/komforan-stan-vrtom-visokom-prizemlju-odlicnoj-lokaciji-novig-oglas-43320144
-03.04.2024.,"355487,50",91,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2025.,https://www.njuskalo.hr/nekretnine/porec-stan-izgradnji-prizemlje-vrtom-prodaja-oglas-43320095
-03.04.2024.,"355487,50",91,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2025.,https://www.njuskalo.hr/nekretnine/stan-prodaja-porec-91.74m2-oglas-43320094
+03.04.2024.,355487,91,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2025.,https://www.njuskalo.hr/nekretnine/porec-stan-izgradnji-prizemlje-vrtom-prodaja-oglas-43320095
+03.04.2024.,355487,91,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2025.,https://www.njuskalo.hr/nekretnine/stan-prodaja-porec-91.74m2-oglas-43320094
 03.04.2024.,805000,219,Istarska,Pore�,Pore�,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2025.,https://www.njuskalo.hr/nekretnine/porec-luksuzni-penthouse-prodaji-oglas-43320093
 03.04.2024.,189900,54,Istarska,Brtonigla,Karigador,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Suteren,2006.,https://www.njuskalo.hr/nekretnine/apartman-2s-db-100m-mora-oglas-43320002
 03.04.2024.,189900,54,Istarska,Brtonigla,Karigador,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Suteren,2006.,https://www.njuskalo.hr/nekretnine/apartman-2s-db-100m-mora-oglas-43320001
@@ -3645,10 +3645,10 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 30.03.2024.,174972,62,Istarska,Labin,Labin,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-62m2-mirna-lokacija-oglas-43224333
 30.03.2024.,241192,86,Istarska,Labin,Labin,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-86m2-mirna-lokacija-oglas-43224334
 30.03.2024.,289999,96,Istarska,Pula,Veli vrh,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A,2.,2020.,https://www.njuskalo.hr/nekretnine/stan-cetverosobni-96m2-moderno-namjesten-oglas-43296584
-30.03.2024.,"454081,25",103,Istarska,Umag,Finida,4-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-cetverosoban-stan-stan-6-103m2-oglas-42894185
-30.03.2024.,"533356,25",121,Istarska,Umag,Finida,4-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-cetverosoban-stan-stan-5-121m2-oglas-42894143
-30.03.2024.,"391091,25",94,Istarska,Umag,Finida,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-trosoban-stan-stan-3-94m2-oglas-42894046
-30.03.2024.,"380613,75",92,Istarska,Umag,Finida,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-trosoban-stan-stan-2-92m2-oglas-42893978
+30.03.2024.,454081,103,Istarska,Umag,Finida,4-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-cetverosoban-stan-stan-6-103m2-oglas-42894185
+30.03.2024.,533356,121,Istarska,Umag,Finida,4-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,2.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-cetverosoban-stan-stan-5-121m2-oglas-42894143
+30.03.2024.,391091,94,Istarska,Umag,Finida,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-trosoban-stan-stan-3-94m2-oglas-42894046
+30.03.2024.,380613,92,Istarska,Umag,Finida,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/umag-finida-trosoban-stan-stan-2-92m2-oglas-42893978
 30.03.2024.,558527,177,Istarska,Pore�,Pore�,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/porec-novogradnja-penthouse-zadnjem-katu-zgrade-krovnom-teras-oglas-36348154
 30.03.2024.,345000,128,Istarska,Vrsar,Vrsar,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/vrsar-dvoetazni-stan-4-spavace-sobe-samo-800-metara-mora-oglas-36348163
 30.03.2024.,207000,70,Istarska,Medulin,Premantura,3-sobni,U ku�i,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/premantura-dvosoban-stan-konoba-oglas-43091017
@@ -4399,8 +4399,8 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 29.03.2024.,390000,102,Istarska,Pore�,Pore�,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/porec-okolica-trosoban-stan-drugom-katu-oglas-43289840
 29.03.2024.,135960,52,Istarska,Vodnjan,Barbariga,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/prodaju-stan-barbariga-istra-52.40-m2-oglas-43289776
 29.03.2024.,250000,67,Istarska,Umag,Umag,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A,1.,2017.,https://www.njuskalo.hr/nekretnine/istra-umag-okolica-moderan-atraktivan-stan-udaljen-svega-200-meta-oglas-43289646
-29.03.2024.,"210034,80",52,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-1-katu-liftom-1-km-mora-a1-oglas-43289634
-29.03.2024.,"204639,20",53,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-prizemlju-vrtom-1-km-mora-a-oglas-43289633
+29.03.2024.,210034,52,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-1-katu-liftom-1-km-mora-a1-oglas-43289634
+29.03.2024.,204639,53,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-prizemlju-vrtom-1-km-mora-a-oglas-43289633
 29.03.2024.,229000,59,Istarska,Pula,Ka�tanjer,3-sobni,U stambenoj zgradi,Jednoeta�ni,Potpuno namje�ten,A+,2.,2019.,https://www.njuskalo.hr/nekretnine/istra-pula-kastanjer-stan-59m2-2ss-db-ii-kat-lift-namjesteno-oglas-43289569
 29.03.2024.,159900,54,Istarska,Pula,Stoja,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,1970.,https://www.njuskalo.hr/nekretnine/stan-pula-stoja-150m-mora-oglas-43289565
 29.03.2024.,175000,64,Istarska,Fa�ana,Valbandon,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,B,1.,2008.,https://www.njuskalo.hr/nekretnine/stan-valbandon-64-m2-800m-mora-oglas-43289564
@@ -7337,7 +7337,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 21.03.2024.,235700,47,Istarska,Pore�,Pore�,1-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2022.,https://www.njuskalo.hr/nekretnine/stan-prodaja-stanova-novom-poslovno-stambenom-projektu-porec-oglas-41509256
 21.03.2024.,300000,60,Istarska,Labin,Rabac,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/istra-rabac-2-apartmana-samom-moru-oglas-34092602
 21.03.2024.,317000,61,Istarska,Tar-Vabriga,Tar,2-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,Prizemlje,2025.,https://www.njuskalo.hr/nekretnine/novogradnja-tar-stan-prizemlju-vrtom-185-m2-oglas-42496101
-21.03.2024.,"315462,20",66,Istarska,Pore�,Pore�,2-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-prizemlju-vrtom-1-km-mora-a-oglas-40132818
+21.03.2024.,315462,66,Istarska,Pore�,Pore�,2-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-prizemlju-vrtom-1-km-mora-a-oglas-40132818
 21.03.2024.,316000,96,Istarska,Medulin,Medulin,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-medulin-98.00-m2-oglas-40894307
 21.03.2024.,167000,41,Istarska,Pore�,Pore�,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,2023.,https://www.njuskalo.hr/nekretnine/istra-porec-stan-2-katu-novogradnji-1km-mora-oglas-41051552
 21.03.2024.,237142,76,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,2024.,https://www.njuskalo.hr/nekretnine/istra-porec-stan-prizemlju-zajednickim-bazenom-oglas-41051527
@@ -7364,7 +7364,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 21.03.2024.,369000,83,Istarska,Pula,Centar,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/pula-kompletno-renoviran-stan-austrougarskoj-vili-oglas-42217330
 21.03.2024.,272380,77,Istarska,Tar-Vabriga,Tar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/stan-1-katu-okolica-poreca-novogradnja-oglas-42259114
 21.03.2024.,273381,37,Istarska,Pore�,Pore�,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2023.,https://www.njuskalo.hr/nekretnine/porec-stan-prvom-katu-novogradnja-oglas-39901132
-21.03.2024.,"322727,40",83,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-1-katu-liftom-1-km-mora-a1-oglas-40132817
+21.03.2024.,322727,83,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/novogradnja-stan-1-katu-liftom-1-km-mora-a1-oglas-40132817
 21.03.2024.,225000,71,Istarska,Pore�,Pore�,2-sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,A+,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/okolica-poreca-stan-prizemlju-zgrade-7-km-mora-oglas-41395032
 21.03.2024.,225000,59,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A+,Unknown,2024.,https://www.njuskalo.hr/nekretnine/istra-porec-stan-prizemlju-vrtom-nedaleko-grada-novogradnja-oglas-41051376
 21.03.2024.,271000,77,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A+,Unknown,2024.,https://www.njuskalo.hr/nekretnine/istra-porec-okolica-stan-prizemlju-vrtom-oglas-41051304
@@ -8011,7 +8011,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 20.03.2024.,316000,80,Istarska,Medulin,Banjole,3-sobni,U stambenoj zgradi,Vi�eeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/4-ekskluzivna-stana-vili-blizini-mora-oglas-42605821
 20.03.2024.,310000,96,Istarska,Pula,Veli vrh,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A,2.,Unknown,https://www.njuskalo.hr/nekretnine/veli-vrh-penthouse-komletno-opremljen-oglas-43216635
 20.03.2024.,165000,88,Istarska,Pula,Centar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Visoko potkrovlje,Unknown,https://www.njuskalo.hr/nekretnine/okolica-arene-trosoban-stan-88-m2-oglas-43216633
-20.03.2024.,"148578,30",53,Istarska,Pula,�iki�i,1-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2025.,https://www.njuskalo.hr/nekretnine/stan-a2-prizemlju-sikici-kod-pule-db-53.04-m2-oglas-41462990
+20.03.2024.,148578,53,Istarska,Pula,�iki�i,1-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2025.,https://www.njuskalo.hr/nekretnine/stan-a2-prizemlju-sikici-kod-pule-db-53.04-m2-oglas-41462990
 20.03.2024.,255000,74,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-porecu-a001-74.86-m2-2s-db-oglas-41887717
 20.03.2024.,250000,81,Istarska,Medulin,Medulin,3-sobni,U stambenoj zgradi,Vi�eeta�ni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/stan-medulinu-81-m2-250.000-eur-2s-db-oglas-42251067
 20.03.2024.,275725,82,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2025.,https://www.njuskalo.hr/nekretnine/stan-porecu-a007-82.85-m2-db-2s-800-m-mora-oglas-41986266
@@ -8208,7 +8208,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 19.03.2024.,124000,45,Istarska,Pula,�iki�i,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-okolica-stan-novogradnji-terasom-oglas-41402772
 19.03.2024.,151875,39,Istarska,Pula,�tinjan,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-stinjan-nov-apartman-vrtom-700m-mora-oglas-40491076
 19.03.2024.,198000,63,Istarska,Medulin,Medulin,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/istra-medulin-lux-stan-novogradnji-terasom-800m-mora-oglas-41694593
-19.03.2024.,"195412,50",58,Istarska,Pula,�tinjan,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-stinjan-stan-vrtom-115m2-blizu-mora-oglas-40499597
+19.03.2024.,195412,58,Istarska,Pula,�tinjan,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-stinjan-stan-vrtom-115m2-blizu-mora-oglas-40499597
 19.03.2024.,93000,27,Istarska,Pula,Vidikovac,1-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-vidikovac-studio-apartman-trazenoj-lokaciji-oglas-42353139
 19.03.2024.,215000,90,Istarska,Pula,Centar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-pula-90m2-oglas-42346275
 19.03.2024.,178000,56,Istarska,Pula,�tinjan,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-stinjan-novogradnja-stan-terasom-1-katu-oglas-41325685
@@ -10106,7 +10106,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 29.09.2023.,175000,60,Istarska,Pula,Veli vrh,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2022.,https://www.njuskalo.hr/nekretnine/istra-pula-novogradnja-odlicni-stanovi-nedaleko-centra-oglas-37589830
 08.04.2024.,280000,39,Istarska,Rovinj,Rovinj,1-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/rovinj-osebujno-ureden-stan-drugom-redu-more-oglas-43395602
 18.08.2023.,189000,80,Istarska,Pula,Centar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/prodajemo-dvosoban-stan-sirem-centru-pule-oglas-41189279
-05.09.2023.,2600,53,Istarska,Pula,Pragrande,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-48-105-m2-2.600-eur-m2-oglas-41330063
+05.09.2023.,137800,53,Istarska,Pula,Pragrande,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-48-105-m2-2.600-eur-m2-oglas-41330063
 16.11.2023.,150000,29,Istarska,Ra�a,Ravni,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-ravni-apartman-pogledom-more-oglas-40379766
 08.12.2023.,615000,132,Istarska,Novigrad,Novigrad,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2023.,https://www.njuskalo.hr/nekretnine/istra-novigrad-prostrani-stan-predivnim-pogledom-more-oglas-42229274
 08.04.2024.,210000,48,Istarska,Rovinj,Rovinj,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/dvosoban-stan-nedaleko-centra-rovinja-oglas-43395539
@@ -10134,7 +10134,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 13.02.2024.,280000,100,Istarska,Pula,�tinjan,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-stinjan-stan-panoramskim-pogledom-oglas-41533642
 27.01.2024.,276444,93,Istarska,Pore�,Pore�,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/porec-okolica-stan-prvom-katu-stambene-zgrade-vrtom-zajednick-oglas-42700953
 20.09.2023.,427800,138,Istarska,Pore�,Pore�,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2023.,https://www.njuskalo.hr/nekretnine/istra-porec-okolica-prostrani-stan-pogledom-prirodu-oglas-41463772
-05.09.2023.,2600,76,Istarska,Pula,Pragrande,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,4.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-48-171-m2-2.600-eur-m2-oglas-41330182
+05.09.2023.,197600,76,Istarska,Pula,Pragrande,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,4.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-48-171-m2-2.600-eur-m2-oglas-41330182
 08.04.2024.,300000,52,Istarska,Rovinj,Rovinj,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/rovinj-stan-fantasticnim-pogledom-more-oglas-43395411
 05.10.2023.,141000,54,Istarska,Rovinj,Rovinj,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Potkrovlje,Unknown,https://www.njuskalo.hr/nekretnine/rovinj-potkrovlje-54m2-pogledom-more-oglas-39984005
 24.01.2024.,193000,57,Istarska,Medulin,Medulin,3-sobni,U ku�i,Jednoeta�ni,Unknown,Unknown,Prizemlje,2010.,https://www.njuskalo.hr/nekretnine/istra-medulin-stan-2s-db-vrtom-oglas-40387326
@@ -10189,7 +10189,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 26.12.2023.,93000,27,Istarska,Pula,Vidikovac,Garsonijera,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,1997.,https://www.njuskalo.hr/nekretnine/vidikovac-garsonjera-suterenu-27-m2-oglas-42013299
 05.02.2024.,231200,67,Istarska,Tar-Vabriga,Tar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/tar-stan-1-katu-novogradnja-2-spavace-sobe-oglas-42796374
 31.07.2023.,270000,145,Istarska,Pazin,Ka�tel,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,1900.,https://www.njuskalo.hr/nekretnine/istra-pazin-novoureden-stan-centru-oglas-39959667
-05.09.2023.,2600,44,Istarska,Pula,Pragrande,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-44-96-m2-2.600-eur-m2-oglas-41329996
+05.09.2023.,114400,44,Istarska,Pula,Pragrande,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-44-96-m2-2.600-eur-m2-oglas-41329996
 13.07.2023.,644000,112,Istarska,Rovinj,Rovinj,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Nenamje�ten,Unknown,Prizemlje,2023.,https://www.njuskalo.hr/nekretnine/stan-prodaja-rovinj-112.54m2-oglas-40950057
 29.07.2022.,535500,119,Istarska,Rovinj,Rovinj,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/stan-prodaja-rovinj-119-m2-oglas-38143567
 14.11.2023.,200000,57,Istarska,Umag,Umag,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/istra-umag-vrhunski-1s-db-okucnicom-novogradnji-oglas-41985842
@@ -10394,7 +10394,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 13.02.2024.,250000,142,Istarska,Pula,Arsenal,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,3.,1877.,https://www.njuskalo.hr/nekretnine/pula-istra-stan-centar-oglas-39984044
 14.02.2024.,179000,69,Istarska,Tar-Vabriga,Tar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Potkrovlje,2021.,https://www.njuskalo.hr/nekretnine/porec-okolica-moderan-stan-potkrovlju-70-m2-oglas-41533543
 01.09.2023.,169000,60,Istarska,Pula,Veruda,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,C,3.,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-stan-frekventnoj-lokaciji-oglas-41296430
-05.09.2023.,2600,72,Istarska,Pula,Pragrande,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,3.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-48-138-m2-2.600-eur-m2-oglas-41330127
+05.09.2023.,187200,72,Istarska,Pula,Pragrande,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,3.,2010.,https://www.njuskalo.hr/nekretnine/stanovi-pula-48-138-m2-2.600-eur-m2-oglas-41330127
 23.07.2021.,188000,57,Istarska,Tar-Vabriga,Vabriga,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,Unknown,https://www.njuskalo.hr/nekretnine/stan-mirnoj-atraktivnoj-lokaciji-oglas-35109296
 06.09.2023.,145000,68,Istarska,Pula,Centar,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A,6.,1980.,https://www.njuskalo.hr/nekretnine/dvosobni-stan-puli-sijana-oglas-40990136
 24.11.2023.,199000,34,Istarska,Novigrad,Novigrad,Garsonijera,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-novigrad-studio-apartman-odlicnoj-lokaciji-oglas-42101544
@@ -10651,7 +10651,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 06.09.2023.,270000,84,Istarska,Medulin,Banjole,Garsonijera,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Visoko potkrovlje,2016.,https://www.njuskalo.hr/nekretnine/kvalitetan-apartman-vrtom-200m-mora-oglas-19694065
 10.05.2023.,300000,96,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2022.,https://www.njuskalo.hr/nekretnine/dvosobni-stan-2s-db-vrtom-2-km-mora-prizemlje-oglas-40428172
 24.01.2024.,411000,124,Istarska,Pore�,Pore�,4-sobni,U stambenoj zgradi,Dvoeta�ni,Unknown,Unknown,Prizemlje,2023.,https://www.njuskalo.hr/nekretnine/istra-porec-luksuzni-stan-izgradnji-krovnom-terasom-oglas-39433406
-05.02.2024.,"315462,20",66,Istarska,Tar-Vabriga,Vabriga,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/vabriga-stanovi-prizemlju-prodaji-izgradnji-oglas-42796526
+05.02.2024.,315462,66,Istarska,Tar-Vabriga,Vabriga,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2024.,https://www.njuskalo.hr/nekretnine/vabriga-stanovi-prizemlju-prodaji-izgradnji-oglas-42796526
 26.10.2023.,410000,167,Istarska,Pula,Gregovica,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-pula-rijetkost-stan-konobom-dvoristem-trazenoj-lokaciji-oglas-40101520
 10.11.2023.,452000,106,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2023.,https://www.njuskalo.hr/nekretnine/istra-porec-luksuzni-stan-blizini-grada-oglas-39014456
 14.09.2023.,181000,43,Istarska,Vodnjan,Peroj,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Visoko prizemlje,Unknown,https://www.njuskalo.hr/nekretnine/istra-peroj-apartman-1s-db-nedaleko-mora-oglas-41396127
@@ -11061,7 +11061,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 03.02.2024.,3000,60,Istarska,Fa�ana,Fa�ana,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,3.,2024.,https://www.njuskalo.hr/nekretnine/stanovi-novogradnji-fazana-oglas-42776816
 16.11.2023.,382640,101,Istarska,Novigrad,Novigrad,4-sobni,U stambenoj zgradi,Dvoeta�ni,Unknown,Unknown,1.,2022.,https://www.njuskalo.hr/nekretnine/novigrad-3s-db-stan-novom-kompleksu-9-zgrada-sveukupno-24-st-oglas-35727848
 26.01.2024.,750000,167,Istarska,Rovinj,Rovinj,5+ sobni,U ku�i,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/istra-rovinj-dva-stana-velikim-vrtom-garazom-600m-mora-oglas-37091912
-05.02.2024.,"210034,80",56,Istarska,Tar-Vabriga,Vabriga,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/vabriga-stan-novogradnji-prodaja-oglas-42796555
+05.02.2024.,210034,56,Istarska,Tar-Vabriga,Vabriga,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,1.,2024.,https://www.njuskalo.hr/nekretnine/vabriga-stan-novogradnji-prodaja-oglas-42796555
 25.01.2023.,403000,129,Istarska,Pula,Centar,5+ sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,3.,Unknown,https://www.njuskalo.hr/nekretnine/odlican-stan-blizu-mora-oglas-39523671
 27.01.2024.,315302,83,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,A+,1.,2024.,https://www.njuskalo.hr/nekretnine/porec-dvosoban-moderan-stan-prvom-katu-800m-mora-oglas-42701047
 18.08.2023.,269000,58,Istarska,Medulin,Medulin,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Unknown,Unknown,https://www.njuskalo.hr/nekretnine/stan-novogradnji-pored-mora-oglas-41188047
@@ -11290,7 +11290,7 @@ Date,Price,Living area,County,City,Neighborhood,Number of rooms,Type of flat,Num
 26.01.2024.,300000,100,Istarska,Medulin,Banjole,4-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/istra-banjole-veliki-stan-top-lokaciji-terasama-bazenom-oglas-41104034
 26.11.2023.,228760,65,Istarska,Pore�,Pore�,3-sobni,U stambenoj zgradi,Vi�eeta�ni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/porec-okolica-stan-drugom-katu-novogradnje-liftom-oglas-41879134
 04.08.2023.,275000,118,Istarska,Li�njan,�i�an,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Prizemlje,2023.,https://www.njuskalo.hr/nekretnine/istra-pula-stan-prizemlju-vrt-205-m2-oglas-39713395
-05.02.2024.,"204405,50",61,Istarska,Tar-Vabriga,Vabriga,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/tar-vabriga-stanovi-izgradnji-prodaji-oglas-42796556
+05.02.2024.,204405,61,Istarska,Tar-Vabriga,Vabriga,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2024.,https://www.njuskalo.hr/nekretnine/tar-vabriga-stanovi-izgradnji-prodaji-oglas-42796556
 16.11.2023.,252300,58,Istarska,Medulin,Medulin,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,Unknown,https://www.njuskalo.hr/nekretnine/istra-medulin-luksuzna-novogradnja-350m-mora-oglas-40156883
 26.10.2023.,260000,55,Istarska,Fa�ana,Fa�ana,3-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,Visoko prizemlje,2017.,https://www.njuskalo.hr/nekretnine/istra-fazana-prekrasan-stan-novogradnji-250m-mora-oglas-39350872
 27.12.2023.,220000,47,Istarska,Medulin,Medulin,2-sobni,U stambenoj zgradi,Jednoeta�ni,Unknown,Unknown,2.,2006.,https://www.njuskalo.hr/nekretnine/medulin-jednosoban-apartman-nedaleko-plaze-oglas-42136357

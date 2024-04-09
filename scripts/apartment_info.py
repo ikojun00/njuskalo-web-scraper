@@ -7,7 +7,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 urls = []
 
-with open('new_5.csv', 'r', newline='') as file:
+with open('zagrebacka_links_3.csv', 'r', newline='') as file:
     reader = csv.reader(file)
     for row in reader:
         urls.extend(row)
@@ -32,7 +32,7 @@ headers = {
 
 csv_header = ["Date", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
-with open('info_5.csv', 'w', newline='') as file:
+with open('zagrebacka_info_3.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(csv_header)
     
@@ -40,7 +40,7 @@ with open('info_5.csv', 'w', newline='') as file:
         for counter, url in enumerate(urls, start=1):
             response = session.get(url, headers=headers)
             soup = BeautifulSoup(response.text, 'html.parser')
-            price = soup.select_one('dd.ClassifiedDetailSummary-priceDomestic').text.replace(" ", "").replace("€", "").replace(".", "").strip()
+            price = re.sub(r',.*', '', soup.select_one('dd.ClassifiedDetailSummary-priceDomestic').text.replace(" ", "").replace("€", "").replace(".", "").strip())
             date = soup.select_one('dd.ClassifiedDetailSystemDetails-listData').text.strip().split(' ')[0]
             values = soup.select('span.ClassifiedDetailBasicDetails-textWrapContainer')
             result = ""
