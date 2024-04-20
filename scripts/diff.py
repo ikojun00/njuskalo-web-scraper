@@ -16,7 +16,7 @@ def compare_csv(new_links, old_links):
 
 
 def delete_rows(csv_file):
-    df = pd.read_csv(csv_file)
+    df = pd.read_csv(csv_file, encoding='unicode_escape')
     for sold_url in sold_urls:
         df = df[df['Url'] != sold_url]
 
@@ -24,20 +24,20 @@ def delete_rows(csv_file):
 
 
 if __name__ == "__main__":
-    county = "osjecko-baranjska"
+    county = "bjelovarsko-bilogorska"
     sold_urls = []
 
-    new_links = 'apartment_links.csv'
-    old_links = f'csv/links/{county}_links.csv'
+    new_links = f'{county}_links.csv'
+    old_links = f'csv/links/counties/{county}_links.csv'
 
     diff_df1, diff_df2 = compare_csv(new_links, old_links)
 
-    diff_df1.to_csv('new.csv', index=False)
-    diff_df2.to_csv('sold.csv', index=False)
+    diff_df1.to_csv(f'{county}_new.csv', index=False)
+    diff_df2.to_csv(f'{county}_sold.csv', index=False)
 
-    with open('sold.csv', 'r', newline='') as file:
+    with open(f'{county}_sold.csv', 'r', newline='') as file:
         reader = csv.reader(file)
         for row in reader:
             sold_urls.extend(row)
             
-    delete_rows(f'csv/info/{county}_info.csv')
+    delete_rows(f'csv/info/counties/{county}_info.csv')

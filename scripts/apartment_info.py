@@ -7,7 +7,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 urls = []
 
-with open('zagrebacka_links_3.csv', 'r', newline='') as file:
+with open('zagreb_links_25.csv', 'r', newline='') as file:
     reader = csv.reader(file)
     for row in reader:
         urls.extend(row)
@@ -32,7 +32,7 @@ headers = {
 
 csv_header = ["Date", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
-with open('zagrebacka_info_3.csv', 'w', newline='') as file:
+with open('zagreb_info_25.csv', 'w', newline='', encoding='utf8') as file:
     writer = csv.writer(file)
     writer.writerow(csv_header)
     
@@ -60,7 +60,7 @@ with open('zagrebacka_info_3.csv', 'w', newline='') as file:
             county_pattern = r"County:\s*([^\n]+)"
             city_pattern = r"City:\s*([^\n]+)"
             neighborhood_pattern = r"Neighborhood:\s*([^\n]+)"
-            number_of_rooms_pattern = r"Broj soba:\s*([^\n]+)"
+            number_of_rooms_pattern = r"Broj soba:\s*(\d+)"
             type_of_flat_pattern = r"Tip stana:\s*([^\n]+)"
             number_of_floors_pattern = r"Broj etaža:\s*([^\n]+)"
             living_area_pattern = r"Stambena površina:\s*(\d+)"
@@ -102,7 +102,6 @@ with open('zagrebacka_info_3.csv', 'w', newline='') as file:
             year_of_construction = re.search(year_of_construction_pattern, result)
             year_of_construction = year_of_construction.group(1) if year_of_construction else "Unknown"
             
-
             writer.writerow([date, price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
 
             progress_percentage = (counter / len(urls)) * 100
