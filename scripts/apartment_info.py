@@ -7,10 +7,11 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 urls = []
 
-with open('zagreb_links_25.csv', 'r', newline='') as file:
+with open('bjelovarsko-bilogorska_links.csv', 'r', newline='') as file:
     reader = csv.reader(file)
+    next(file)
     for row in reader:
-        urls.extend(row)
+        urls.append(row[2])
 
 headers = {
   'authority': 'www.njuskalo.hr',
@@ -32,7 +33,7 @@ headers = {
 
 csv_header = ["Date", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
-with open('zagreb_info_25.csv', 'w', newline='', encoding='utf8') as file:
+with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') as file:
     writer = csv.writer(file)
     writer.writerow(csv_header)
     

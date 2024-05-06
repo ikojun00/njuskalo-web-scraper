@@ -1,10 +1,11 @@
 import csv
+import re
 from bs4 import BeautifulSoup
 import requests
 from fake_useragent import UserAgent
 
 ua = UserAgent()
-county = "zagreb-okolica"
+county = "bjelovarsko-bilogorska"
 
 headers = {
   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -23,34 +24,38 @@ headers = {
   'user-agent': ua.random
 }
 
-with requests.Session() as session:
-    response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}", headers=headers)
-    apartment_links = []
+csv_header = ["Date", "Price", "Url"]
 
-    counter = 0
-    while True:
-        soup = BeautifulSoup(response.text, 'html.parser')
-        apartments = soup.select("li.EntityList-item.EntityList-item--VauVau.bp-radix__faux-anchor") + soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
-        
-        for apartment in apartments:
-            link = f"https://www.njuskalo.hr{apartment['data-href']}"
-            if link not in apartment_links:
-                apartment_links.append(link)
-        
-        try:
-            next_page = soup.select_one("li.Pagination-item.Pagination-item--next > button")['data-page']
-        except:
-            break
-        
-        counter += 1
-        print(f"{counter}. page done!")
+with open('bjelovarsko-bilogorska_links.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(csv_header)
+    rows = 0
+    
+    with requests.Session() as session:
+        response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}", headers=headers)
+        apartment_links = []
 
-        response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}?page={next_page}", headers=headers)
+        counter = 0
+        while True:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            apartments = soup.select("li.EntityList-item.EntityList-item--VauVau.bp-radix__faux-anchor") + soup.select("li.EntityList-item.EntityList-item--Regular.bp-radix__faux-anchor")
+            
+            for apartment in apartments:
+                link = f"https://www.njuskalo.hr{apartment['data-href']}"
+                if link not in apartment_links:
+                    apartment_links.append(link)
+                    date = apartment.select_one("time.date").text
+                    price = re.sub(r',.*', '', apartment.select_one('li.price-item').text.replace(" ", "").replace("€", "").replace(".", "").strip())
+                    writer.writerow([date, price, link])
+            
+            try:
+                next_page = soup.select_one("li.Pagination-item.Pagination-item--next > button")['data-page']
+            except:
+                break
+            
+            counter += 1
+            print(f"{counter}. page done!")
 
-    with open('zagreb-okolica_links.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        rows = 0
-        for link in apartment_links:
-            writer.writerow([link])
-            rows += 1
-        print(f"Number of written rows: {rows}")
+            response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}?page={next_page}", headers=headers)
+                
+                
