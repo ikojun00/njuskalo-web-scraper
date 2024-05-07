@@ -26,7 +26,7 @@ headers = {
 
 csv_header = ["Date", "Price", "Url"]
 
-with open('bjelovarsko-bilogorska_links.csv', 'w', newline='') as file:
+with open(f'{county}_links.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(csv_header)
     rows = 0

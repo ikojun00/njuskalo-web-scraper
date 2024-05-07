@@ -31,7 +31,7 @@ headers = {
   'user-agent': ua.random
 }
 
-csv_header = ["Date", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
+csv_header = ["Date", "Views", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
 with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') as file:
     writer = csv.writer(file)
@@ -43,6 +43,7 @@ with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') a
             soup = BeautifulSoup(response.text, 'html.parser')
             price = re.sub(r',.*', '', soup.select_one('dd.ClassifiedDetailSummary-priceDomestic').text.replace(" ", "").replace("€", "").replace(".", "").strip())
             date = soup.select_one('dd.ClassifiedDetailSystemDetails-listData').text.strip().split(' ')[0]
+            views = soup.select('dd.ClassifiedDetailSystemDetails-listData')[2].text.strip().split(' ')[0]
             values = soup.select('span.ClassifiedDetailBasicDetails-textWrapContainer')
             result = ""
             for i, value in enumerate(values, start=1):
@@ -103,7 +104,7 @@ with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') a
             year_of_construction = re.search(year_of_construction_pattern, result)
             year_of_construction = year_of_construction.group(1) if year_of_construction else "Unknown"
             
-            writer.writerow([date, price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
+            writer.writerow([date, views, price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
 
             progress_percentage = (counter / len(urls)) * 100
             print(f"Progress: {progress_percentage:.2f}%")
