@@ -31,7 +31,7 @@ headers = {
   'user-agent': ua.random
 }
 
-csv_header = ["Date", "Views", "Price", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
+csv_header = ["Date", "Views", "Price", "Latitude", "Longitude", "Living area", "County", "City", "Neighborhood", "Number of rooms", "Type of flat", "Number of floors", "Furnishing", "Energy class", "Floor", "Year of construction", "Url"]
 
 with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') as file:
     writer = csv.writer(file)
@@ -70,6 +70,7 @@ with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') a
             energy_class_pattern = r"Energetski razred:\s*([^\n]+)"
             floor_pattern = r"Kat:\s*([^\n]+)"
             year_of_construction_pattern = r"Godina izgradnje:\s*([^\n]+)"
+            lat_lng_pattern = r'"lat":(-?\d+\.\d+),"lng":(-?\d+\.\d+)'
 
             county = re.search(county_pattern, result)
             county = county.group(1) if county else "Unknown"
@@ -103,8 +104,12 @@ with open('bjelovarsko-bilogorska_info.csv', 'w', newline='', encoding='utf8') a
 
             year_of_construction = re.search(year_of_construction_pattern, result)
             year_of_construction = year_of_construction.group(1) if year_of_construction else "Unknown"
+
+            lat_lng_match = re.search(lat_lng_pattern, response.text)
+            latitude = float(lat_lng_match.group(1)) if lat_lng_match else "Unknown"
+            longitude = float(lat_lng_match.group(2)) if lat_lng_match else "Unknown"
             
-            writer.writerow([date, views, price, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
+            writer.writerow([date, views, price, latitude, longitude, living_area, county, city, neighborhood, number_of_rooms, type_of_flat, number_of_floors, furnishing, energy_class, floor, year_of_construction, url])
 
             progress_percentage = (counter / len(urls)) * 100
             print(f"Progress: {progress_percentage:.2f}%")
