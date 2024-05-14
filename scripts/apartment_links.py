@@ -5,7 +5,7 @@ import requests
 from fake_useragent import UserAgent
 
 ua = UserAgent()
-county = "bjelovarsko-bilogorska"
+county = "vrbovsko"
 
 headers = {
   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -47,6 +47,7 @@ with open(f'{county}_links.csv', 'w', newline='') as file:
                     date = apartment.select_one("time.date").text
                     price = re.sub(r',.*', '', apartment.select_one('li.price-item').text.replace(" ", "").replace("€", "").replace(".", "").strip())
                     writer.writerow([date, price, link])
+                    rows += 1
             
             try:
                 next_page = soup.select_one("li.Pagination-item.Pagination-item--next > button")['data-page']
@@ -57,5 +58,7 @@ with open(f'{county}_links.csv', 'w', newline='') as file:
             print(f"{counter}. page done!")
 
             response = session.get(f"https://www.njuskalo.hr/prodaja-stanova/{county}?page={next_page}", headers=headers)
+    
+        print(f"{rows} rows!")
                 
                 

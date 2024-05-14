@@ -10,4 +10,4 @@ if __name__ == "__main__":
             df.at[index, 'Price'] = row['Price'] * row['Living area']
         print(index)
 
-    df.to_csv('bla.csv', index=False)
+    df.to_csv('csv/info/info.csv', index=False)
