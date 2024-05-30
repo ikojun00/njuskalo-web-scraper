@@ -28,7 +28,7 @@ def delete_rows(csv_file, urls):
 
 
 if __name__ == "__main__":
-    county = "bjelovarsko-bilogorska"
+    county = "zagrebacka"
     urls = []
 
     old_links = f'csv/links/counties/{county}_links.csv'
